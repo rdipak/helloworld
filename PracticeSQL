@@ -1,1 +1,10 @@
 select count(name) from city where population > 100000;
+select DISTINCT city from station where NOT REGEXP_LIKE(city, '^[aeiou]')
+select DISTINCT city from station where NOT REGEXP_LIKE(city, '^[aeiou]')
+select distinct city from station where regexp_like (city, '[aeiou]$')
+select distinct city from station where regexp_like (city, '^[^aeiou]') and regexp_like (city,'[^aeiou]$')
+select distinct city from station where NOT (regexp_like (city, '^[aeiou]') and regexp_like (city,'[aeiou]$'))
+select distinct city from station where NOT (regexp_like (city, '^[aeiou]') or regexp_like (city,'[aeiou]$'))
+select name from Employee where salary > 2000 and months < 10 order by employee_id asc
+Order by last 3 characters
+select name from students where marks > 75 order by RIGHT (name,3), ID ASC
