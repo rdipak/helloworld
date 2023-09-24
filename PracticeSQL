@@ -8,3 +8,8 @@ select distinct city from station where NOT (regexp_like (city, '^[aeiou]') or r
 select name from Employee where salary > 2000 and months < 10 order by employee_id asc
 Order by last 3 characters
 select name from students where marks > 75 order by RIGHT (name,3), ID ASC
+select sum(population) from city where district = 'California';
+select avg(population) from city where District = 'California';
+select floor (avg(population)) from city;
+select sum(population) from city where countrycode='JPN';
+select max(population) - min(population) from city;
