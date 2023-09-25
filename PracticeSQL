@@ -13,3 +13,5 @@ select avg(population) from city where District = 'California';
 select floor (avg(population)) from city;
 select sum(population) from city where countrycode='JPN';
 select max(population) - min(population) from city;
+select round(sum(lat_n),2), round(sum(long_w),2) from station;
+select round(sum(lat_n),4) from station  where lat_n between 38.7780 and 137.2345;
