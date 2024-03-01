@@ -1,0 +1,1001 @@
+id,Randon_check,claim_adjucation,ranking_decision,veteran_id,claim_id,ethicity,location,age_group,gender,period_of_service,rank,branch
+1,0.13,granted,granted_10,V_1,C_9993,W,loc_a,76-85,M,(o) Between KC & VNE,Enlisted,Air Force
+2,0.18,granted,granted_10,V_2,C_9992,W,loc_f,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+3,0.95,granted,granted_0,V_3,C_9993,W,loc_j,56-65,M,(o) Between KC & VNE,Enlisted,Army
+4,0.75,granted,granted_0,V_4,C_9994,W,loc_g,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+5,0.62,granted,granted_0,V_5,C_9995,T,loc_a,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+6,0.53,granted,granted_0,V_6,C_9996,W,loc_a,66-75,M,(t) Between VNE & GW Era,Enlisted,Navy
+7,0.58,denied,denied,V_7,C_9997,W,loc_a,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+8,0.63,denied,denied,V_8,C_9998,W,loc_g,56-65,ND,(p) VNE only,Officer,Air Force
+9,0.75,granted,granted_0,V_9,C_9999,W,loc_d,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+10,0.45,granted,granted_0,V_10,C_99910,O,loc_d,76-85,M,(p) VNE only,Enlisted,Air Force
+11,0.40,denied,denied,V_11,C_99911,W,loc_a,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+12,0.41,denied,denied,V_12,C_99912,W,loc_d,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+13,0.99,denied,denied,V_13,C_99913,W,loc_l,76-85,M,(p) VNE only,Enlisted,Air Force
+14,0.43,denied,denied,V_14,C_99914,W,loc_g,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+15,0.34,denied,denied,V_15,C_99915,W,loc_c,76-85,M,(p) VNE only,Enlisted,Army
+16,0.83,denied,denied,V_16,C_99916,HL,loc_i,86-above,M,(t) Between VNE & GW Era,Enlisted,Army
+17,0.84,granted,granted_0,V_17,C_99917,W,loc_c,56-65,M,(o) Between KC & VNE,Enlisted,Army
+18,0.31,granted,granted_0,V_18,C_99918,W,loc_c,76-85,M,(o) Between KC & VNE,Enlisted,Army
+19,0.33,granted,granted_0,V_19,C_99919,W,loc_g,76-85,M,(p) VNE only,Enlisted,Navy
+20,0.52,denied,denied,V_20,C_99920,T,loc_d,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+21,0.77,granted,granted_0,V_21,C_99921,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Navy
+22,0.64,denied,denied,V_22,C_99922,W,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Air Force
+23,0.20,denied,denied,V_23,C_99923,W,loc_a,66-75,M,(p) VNE only,Enlisted,Army
+24,0.10,granted,granted_10,V_24,C_99924,W,loc_c,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+25,0.31,denied,denied,V_25,C_99925,W,loc_f,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+26,0.51,granted,granted_0,V_26,C_99926,AA,loc_e,86-above,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+27,0.81,denied,denied,V_27,C_99927,W,loc_j,76-85,M,(l) Between WWII & KC,Enlisted,Army
+28,0.28,granted,granted_10,V_28,C_99928,W,loc_c,56-65,M,(t) Between VNE & GW Era,Enlisted,Non-Defense
+29,0.09,granted,granted_10,V_29,C_99929,A,loc_a,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+30,0.61,granted,granted_0,V_30,C_99930,HL,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+31,0.67,granted,granted_0,V_31,C_99931,AA,loc_i,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+32,0.97,granted,granted_0,V_32,C_99932,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+33,0.74,granted,granted_0,V_33,C_99933,AA,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+34,0.33,denied,denied,V_34,C_99934,W,loc_l,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+35,0.60,granted,granted_0,V_35,C_99935,W,loc_i,66-75,ND,(t) Between VNE & GW Era,Enlisted,Army
+36,0.17,denied,denied,V_36,C_99936,W,loc_a,76-85,M,(o) Between KC & VNE,Enlisted,Army
+37,0.42,granted,granted_0,V_37,C_99937,W,loc_d,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+38,0.83,granted,granted_0,V_38,C_99938,W,loc_k,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+39,0.08,denied,denied,V_39,C_99939,AA,loc_f,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+40,0.38,denied,denied,V_40,C_99940,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+41,0.80,granted,granted_0,V_41,C_99941,W,loc_l,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+42,0.07,granted,granted_10,V_42,C_99942,W,loc_d,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+43,0.02,denied,denied,V_43,C_99943,W,loc_g,76-85,F,(p) VNE only,Officer,Air Force
+44,0.17,denied,denied,V_44,C_99944,W,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Officer,Navy
+45,0.97,granted,granted_0,V_45,C_99945,W,loc_c,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+46,0.19,denied,denied,V_46,C_99946,AA,loc_k,66-75,F,(p) VNE only,Enlisted,Air Force
+47,0.88,denied,denied,V_47,C_99947,W,loc_d,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+48,0.16,granted,granted_10,V_48,C_99948,W,loc_c,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+49,0.46,denied,denied,V_49,C_99949,W,loc_a,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+50,0.63,denied,denied,V_50,C_99950,AA,loc_i,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+51,0.82,granted,granted_0,V_51,C_99951,W,loc_c,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+52,0.18,denied,denied,V_52,C_99952,W,loc_i,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+53,0.13,denied,denied,V_53,C_99953,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+54,0.94,granted,granted_0,V_54,C_99954,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+55,0.09,denied,denied,V_55,C_99955,W,loc_f,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+56,0.75,denied,denied,V_56,C_99956,W,loc_c,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+57,0.10,granted,granted_10,V_57,C_99957,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+58,0.86,denied,denied,V_58,C_99958,W,loc_h,66-75,M,(t) Between VNE & GW Era,Officer,Non-Defense
+59,0.64,granted,granted_0,V_59,C_99959,W,loc_b,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+60,0.14,granted,granted_10,V_60,C_99960,W,loc_e,66-75,F,(p) VNE only,Officer,Navy
+61,0.43,granted,granted_0,V_61,C_99961,AA,loc_a,66-75,M,(p) VNE only,Officer,Air Force
+62,0.65,granted,granted_0,V_62,C_99962,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+63,0.37,denied,denied,V_63,C_99963,W,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+64,0.75,denied,denied,V_64,C_99964,HL,loc_g,76-85,M,(l) Between WWII & KC,Enlisted,Army
+65,0.18,granted,granted_10,V_65,C_99965,W,loc_e,36- 45,M,(o) Between KC & VNE,Enlisted,Air Force
+66,0.84,granted,granted_0,V_66,C_99966,W,loc_f,66-75,M,(p) VNE only,Enlisted,Reserve Forces
+67,0.86,granted,granted_0,V_67,C_99967,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+68,0.22,granted,granted_10,V_68,C_99968,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+69,0.49,granted,granted_0,V_69,C_99969,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+70,0.79,granted,granted_0,V_70,C_99970,W,loc_h,66-75,M,(p) VNE only,Enlisted,Army
+71,0.93,granted,granted_0,V_71,C_99971,W,loc_k,56-65,M,(t) Between VNE & GW Era,Enlisted,Marines
+72,0.09,granted,granted_10,V_72,C_99972,W,loc_e,76-85,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+73,0.83,denied,denied,V_73,C_99973,W,loc_a,56-65,M,(m) KC only,Enlisted,Army
+74,0.54,denied,denied,V_74,C_99974,W,loc_f,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+75,0.18,granted,granted_10,V_75,C_99975,W,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+76,0.39,granted,granted_0,V_76,C_99976,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+77,0.86,granted,granted_0,V_77,C_99977,W,loc_i,76-85,M,(m) KC only,Enlisted,Army
+78,0.68,granted,granted_0,V_78,C_99978,W,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+79,0.02,denied,denied,V_79,C_99979,W,loc_e,66-75,M,(p) VNE only,Enlisted,Navy
+80,0.58,granted,granted_0,V_80,C_99980,W,loc_l,76-85,M,(t) Between VNE & GW Era,Enlisted,Air Force
+81,0.95,denied,denied,V_81,C_99981,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+82,0.73,granted,granted_0,V_82,C_99982,W,loc_a,76-85,M,(p) VNE only,Enlisted,Air Force
+83,0.68,granted,granted_0,V_83,C_99983,W,loc_a,66-75,M,(p) VNE only,Enlisted,Marines
+84,0.41,granted,granted_0,V_84,C_99984,W,loc_b,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+85,0.11,denied,denied,V_85,C_99985,W,loc_c,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+86,0.69,denied,denied,V_86,C_99986,AA,loc_c,76-85,M,(p) VNE only,Enlisted,Army
+87,0.66,denied,denied,V_87,C_99987,AA,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+88,0.97,granted,granted_0,V_88,C_99988,W,loc_a,86-above,M,(p) VNE only,Enlisted,Navy
+89,0.44,denied,denied,V_89,C_99989,T,loc_j,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+90,0.63,denied,denied,V_90,C_99990,W,loc_a,36- 45,M,(p) VNE only,Enlisted,Navy
+91,0.19,denied,denied,V_91,C_99991,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+92,0.01,granted,granted_10,V_92,C_99992,W,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Navy
+93,0.68,denied,denied,V_93,C_99993,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+94,0.96,granted,granted_0,V_94,C_99994,AA,loc_g,86-above,M,(w) GW Era - Post 9/11 only,Officer,Reserve Forces
+95,0.87,granted,granted_0,V_95,C_99995,AA,loc_e,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+96,0.61,denied,denied,V_96,C_99996,W,loc_j,66-75,M,(o) Between KC & VNE,Enlisted,Air Force
+97,0.94,denied,denied,V_97,C_99997,W,loc_a,46-55,M,(p) VNE only,Enlisted,Army
+98,0.41,denied,denied,V_98,C_99998,W,loc_j,46-55,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+99,0.74,denied,denied,V_99,C_99999,W,loc_d,56-65,M,(t) Between VNE & GW Era,Enlisted,Navy
+100,0.70,denied,denied,V_100,C_999100,HL,loc_e,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+101,0.38,granted,granted_0,V_101,C_999101,W,loc_f,26-35,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+102,0.83,granted,granted_0,V_102,C_999102,W,loc_l,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+103,0.39,denied,denied,V_103,C_999103,W,loc_j,66-75,ND,(p) VNE only,Enlisted,Army
+104,0.66,granted,granted_0,V_104,C_999104,W,loc_l,46-55,M,(m) KC only,Enlisted,Army
+105,0.17,denied,denied,V_105,C_999105,W,loc_k,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+106,0.69,denied,denied,V_106,C_999106,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+107,0.85,denied,denied,V_107,C_999107,W,loc_k,76-85,M,(m) KC only,Enlisted,Air Force
+108,0.17,granted,granted_10,V_108,C_999108,W,loc_h,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+109,0.21,granted,granted_10,V_109,C_999109,W,loc_b,86-above,M,(u) GW Era - Pre 9/11 only,Officer,Navy
+110,0.30,granted,granted_0,V_110,C_999110,AA,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+111,0.27,granted,granted_10,V_111,C_999111,AA,loc_l,76-85,M,(p) VNE only,Enlisted,Marines
+112,0.38,denied,denied,V_112,C_999112,T,loc_i,56-65,M,(n) KC & VNE,Enlisted,Army
+113,0.53,granted,granted_0,V_113,C_999113,W,loc_c,36- 45,M,(p) VNE only,Enlisted,Navy
+114,0.51,granted,granted_0,V_114,C_999114,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+115,0.27,granted,granted_10,V_115,C_999115,AA,loc_g,76-85,F,(t) Between VNE & GW Era,Enlisted,Marines
+116,0.36,granted,granted_0,V_116,C_999116,AA,loc_k,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+117,0.69,denied,denied,V_117,C_999117,W,loc_b,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+118,0.48,granted,granted_0,V_118,C_999118,T,loc_k,76-85,M,(o) Between KC & VNE,Enlisted,Air Force
+119,0.59,denied,denied,V_119,C_999119,W,loc_k,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+120,0.48,granted,granted_0,V_120,C_999120,W,loc_e,66-75,M,(o) Between KC & VNE,Enlisted,Non-Defense
+121,0.22,denied,denied,V_121,C_999121,W,loc_g,56-65,M,(o) Between KC & VNE,Enlisted,Marines
+122,0.41,granted,granted_0,V_122,C_999122,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+123,0.12,denied,denied,V_123,C_999123,W,loc_c,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+124,0.85,granted,granted_0,V_124,C_999124,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+125,0.49,denied,denied,V_125,C_999125,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+126,0.05,granted,granted_10,V_126,C_999126,AA,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+127,0.03,granted,granted_10,V_127,C_999127,O,loc_f,76-85,M,(t) Between VNE & GW Era,Enlisted,Air Force
+128,0.95,denied,denied,V_128,C_999128,W,loc_i,66-75,M,(m) KC only,Enlisted,Army
+129,0.19,denied,denied,V_129,C_999129,W,loc_b,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+130,0.17,denied,denied,V_130,C_999130,W,loc_j,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+131,0.37,denied,denied,V_131,C_999131,W,loc_g,36- 45,F,(o) Between KC & VNE,Enlisted,Army
+132,0.19,denied,denied,V_132,C_999132,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+133,0.61,granted,granted_0,V_133,C_999133,T,loc_h,76-85,F,(t) Between VNE & GW Era,Enlisted,Air Force
+134,0.01,denied,denied,V_134,C_999134,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+135,0.45,denied,denied,V_135,C_999135,W,loc_f,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+136,0.22,denied,denied,V_136,C_999136,AA,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+137,0.74,denied,denied,V_137,C_999137,W,loc_e,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+138,0.64,denied,denied,V_138,C_999138,W,loc_j,36- 45,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+139,0.80,denied,denied,V_139,C_999139,W,loc_f,36- 45,M,(p) VNE only,Officer,Army
+140,0.04,granted,granted_10,V_140,C_999140,AA,loc_j,36- 45,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+141,0.72,granted,granted_0,V_141,C_999141,W,loc_a,76-85,F,(p) VNE only,Enlisted,Navy
+142,0.96,denied,denied,V_142,C_999142,W,loc_f,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+143,0.65,denied,denied,V_143,C_999143,W,loc_k,66-75,F,(p) VNE only,Enlisted,Air Force
+144,0.40,granted,granted_0,V_144,C_999144,W,loc_g,76-85,M,(m) KC only,Enlisted,Navy
+145,0.21,granted,granted_10,V_145,C_999145,W,loc_j,66-75,M,(p) VNE only,Enlisted,Air Force
+146,0.64,denied,denied,V_146,C_999146,W,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+147,0.85,denied,denied,V_147,C_999147,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+148,0.23,granted,granted_10,V_148,C_999148,W,loc_e,86-above,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",Enlisted,Navy
+149,0.44,granted,granted_0,V_149,C_999149,HL,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+150,0.65,denied,denied,V_150,C_999150,AA,loc_c,56-65,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+151,0.03,granted,granted_10,V_151,C_999151,W,loc_g,86-above,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+152,0.75,denied,denied,V_152,C_999152,W,loc_k,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+153,0.46,denied,denied,V_153,C_999153,W,loc_i,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+154,0.95,granted,granted_0,V_154,C_999154,W,loc_c,76-85,M,(t) Between VNE & GW Era,Enlisted,Air Force
+155,0.13,granted,granted_10,V_155,C_999155,W,loc_i,66-75,M,(l) Between WWII & KC,Enlisted,Army
+156,0.20,granted,granted_10,V_156,C_999156,AA,loc_i,86-above,M,(p) VNE only,Enlisted,Navy
+157,0.65,granted,granted_0,V_157,C_999157,W,loc_e,76-85,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+158,0.41,denied,denied,V_158,C_999158,W,loc_a,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+159,0.58,granted,granted_0,V_159,C_999159,W,loc_c,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+160,0.38,denied,denied,V_160,C_999160,W,loc_f,36- 45,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+161,0.25,denied,denied,V_161,C_999161,W,loc_c,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+162,0.18,denied,denied,V_162,C_999162,AA,loc_e,86-above,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+163,0.69,granted,granted_0,V_163,C_999163,W,loc_a,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+164,0.22,granted,granted_10,V_164,C_999164,W,loc_k,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+165,0.15,granted,granted_10,V_165,C_999165,W,loc_f,76-85,M,(n) KC & VNE,Enlisted,Air Force
+166,0.34,granted,granted_0,V_166,C_999166,W,loc_i,76-85,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+167,0.28,granted,granted_10,V_167,C_999167,W,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+168,0.61,denied,denied,V_168,C_999168,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+169,0.14,denied,denied,V_169,C_999169,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+170,0.23,denied,denied,V_170,C_999170,W,loc_b,76-85,F,(m) KC only,Enlisted,Navy
+171,0.55,denied,denied,V_171,C_999171,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+172,0.85,granted,granted_0,V_172,C_999172,W,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Marines
+173,0.99,denied,denied,V_173,C_999173,W,loc_k,66-75,M,(m) KC only,Enlisted,Marines
+174,0.66,granted,granted_0,V_174,C_999174,AA,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+175,0.43,denied,denied,V_175,C_999175,W,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+176,0.65,granted,granted_0,V_176,C_999176,AA,loc_a,26-35,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+177,0.47,denied,denied,V_177,C_999177,AA,loc_a,66-75,F,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+178,0.95,granted,granted_0,V_178,C_999178,W,loc_c,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+179,0.11,denied,denied,V_179,C_999179,W,loc_h,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+180,0.66,granted,granted_0,V_180,C_999180,W,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+181,0.74,granted,granted_0,V_181,C_999181,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+182,0.78,denied,denied,V_182,C_999182,W,loc_f,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Reserve Forces
+183,0.62,granted,granted_0,V_183,C_999183,W,loc_c,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+184,0.41,granted,granted_0,V_184,C_999184,W,loc_k,36- 45,F,(t) Between VNE & GW Era,Enlisted,Air Force
+185,0.17,granted,granted_10,V_185,C_999185,W,loc_f,56-65,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+186,0.13,granted,granted_10,V_186,C_999186,AA,loc_j,66-75,M,(o) Between KC & VNE,Enlisted,Navy
+187,0.70,denied,denied,V_187,C_999187,W,loc_k,76-85,M,(o) Between KC & VNE,Enlisted,Navy
+188,0.55,denied,denied,V_188,C_999188,W,loc_l,76-85,F,(p) VNE only,Enlisted,Army
+189,0.13,denied,denied,V_189,C_999189,W,loc_h,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+190,0.85,granted,granted_0,V_190,C_999190,W,loc_a,46-55,M,(p) VNE only,Enlisted,Marines
+191,0.71,denied,denied,V_191,C_999191,W,loc_a,76-85,F,(o) Between KC & VNE,Enlisted,Reserve Forces
+192,0.49,granted,granted_0,V_192,C_999192,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+193,0.96,granted,granted_0,V_193,C_999193,AA,loc_j,76-85,M,(p) VNE only,Enlisted,Marines
+194,0.90,granted,granted_0,V_194,C_999194,W,loc_a,46-55,M,(w) GW Era - Post 9/11 only,Officer,Army
+195,0.71,denied,denied,V_195,C_999195,AA,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+196,0.52,denied,denied,V_196,C_999196,AA,loc_a,86-above,M,(p) VNE only,Enlisted,Air Force
+197,0.69,denied,denied,V_197,C_999197,W,loc_d,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+198,0.35,denied,denied,V_198,C_999198,W,loc_k,86-above,M,(p) VNE only,Enlisted,Army
+199,0.46,granted,granted_0,V_199,C_999199,HL,loc_l,46-55,M,(t) Between VNE & GW Era,Enlisted,Marines
+200,0.23,denied,denied,V_200,C_999200,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+201,0.06,granted,granted_10,V_201,C_999201,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+202,0.94,denied,denied,V_202,C_999202,W,loc_l,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+203,0.42,granted,granted_0,V_203,C_999203,W,loc_c,26-35,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+204,0.68,denied,denied,V_204,C_999204,AI,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+205,0.76,granted,granted_0,V_205,C_999205,W,loc_f,66-75,M,(p) VNE only,Officer,Air Force
+206,0.79,granted,granted_0,V_206,C_999206,A,loc_g,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+207,0.53,granted,granted_0,V_207,C_999207,O,loc_c,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+208,0.83,denied,denied,V_208,C_999208,W,loc_c,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+209,0.11,denied,denied,V_209,C_999209,W,loc_l,56-65,ND,(u) GW Era - Pre 9/11 only,Enlisted,Army
+210,0.77,denied,denied,V_210,C_999210,W,loc_f,46-55,F,(p) VNE only,Enlisted,Reserve Forces
+211,0.16,denied,denied,V_211,C_999211,W,loc_d,56-65,M,(p) VNE only,Enlisted,Army
+212,0.23,denied,denied,V_212,C_999212,AA,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+213,0.52,granted,granted_0,V_213,C_999213,W,loc_i,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+214,0.43,denied,denied,V_214,C_999214,W,loc_l,86-above,M,(t) Between VNE & GW Era,Enlisted,Navy
+215,0.01,granted,granted_10,V_215,C_999215,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+216,0.11,granted,granted_10,V_216,C_999216,HL,loc_j,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Navy
+217,0.90,granted,granted_0,V_217,C_999217,AA,loc_c,76-85,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+218,0.70,denied,denied,V_218,C_999218,W,loc_e,66-75,M,(m) KC only,Enlisted,Army
+219,0.54,denied,denied,V_219,C_999219,W,loc_d,76-85,M,(p) VNE only,Enlisted,Army
+220,0.15,granted,granted_10,V_220,C_999220,AA,loc_i,76-85,M,(t) Between VNE & GW Era,Enlisted,Marines
+221,0.92,granted,granted_0,V_221,C_999221,W,loc_f,56-65,F,(p) VNE only,Officer,Army
+222,0.53,denied,denied,V_222,C_999222,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+223,0.43,granted,granted_0,V_223,C_999223,W,loc_l,76-85,M,(p) VNE only,Enlisted,Army
+224,0.18,granted,granted_10,V_224,C_999224,AA,loc_j,56-65,M,(p) VNE only,Enlisted,Army
+225,0.31,granted,granted_0,V_225,C_999225,AI,loc_d,76-85,F,(p) VNE only,Enlisted,Reserve Forces
+226,0.26,denied,denied,V_226,C_999226,W,loc_j,76-85,ND,(t) Between VNE & GW Era,Enlisted,Marines
+227,0.09,granted,granted_10,V_227,C_999227,W,loc_f,36- 45,ND,(w) GW Era - Post 9/11 only,Enlisted,Navy
+228,0.84,denied,denied,V_228,C_999228,W,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+229,0.06,denied,denied,V_229,C_999229,W,loc_k,76-85,M,(p) VNE only,Enlisted,Air Force
+230,0.43,denied,denied,V_230,C_999230,W,loc_f,46-55,M,(p) VNE only,Enlisted,Navy
+231,0.35,granted,granted_0,V_231,C_999231,W,loc_j,26-35,M,(m) KC only,Enlisted,Army
+232,0.54,denied,denied,V_232,C_999232,W,loc_e,76-85,M,(p) VNE only,Enlisted,Navy
+233,0.76,granted,granted_0,V_233,C_999233,W,loc_k,26-35,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+234,0.06,granted,granted_10,V_234,C_999234,A,loc_d,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Army
+235,0.76,denied,denied,V_235,C_999235,AA,loc_d,66-75,M,(p) VNE only,Enlisted,Army
+236,0.10,granted,granted_10,V_236,C_999236,AA,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+237,0.68,denied,denied,V_237,C_999237,W,loc_f,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+238,0.21,granted,granted_10,V_238,C_999238,W,loc_d,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+239,0.82,denied,denied,V_239,C_999239,W,loc_a,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+240,0.96,denied,denied,V_240,C_999240,W,loc_c,56-65,M,(t) Between VNE & GW Era,Officer,Army
+241,0.55,granted,granted_0,V_241,C_999241,A,loc_l,66-75,M,(p) VNE only,Enlisted,Marines
+242,0.03,granted,granted_10,V_242,C_999242,W,loc_a,66-75,F,(t) Between VNE & GW Era,Enlisted,Army
+243,0.52,denied,denied,V_243,C_999243,W,loc_l,66-75,F,(t) Between VNE & GW Era,Enlisted,Army
+244,0.52,denied,denied,V_244,C_999244,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+245,0.57,granted,granted_0,V_245,C_999245,W,loc_e,76-85,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+246,0.46,granted,granted_0,V_246,C_999246,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+247,0.86,granted,granted_0,V_247,C_999247,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+248,0.81,granted,granted_0,V_248,C_999248,W,loc_a,86-above,ND,(p) VNE only,Enlisted,Army
+249,0.15,granted,granted_10,V_249,C_999249,A,loc_k,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+250,0.37,granted,granted_0,V_250,C_999250,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+251,0.35,denied,denied,V_251,C_999251,W,loc_a,76-85,M,(p) VNE only,Enlisted,Navy
+252,0.83,denied,denied,V_252,C_999252,W,loc_a,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+253,0.11,granted,granted_10,V_253,C_999253,W,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+254,0.77,denied,denied,V_254,C_999254,W,loc_j,66-75,ND,(t) Between VNE & GW Era,Enlisted,Army
+255,0.86,denied,denied,V_255,C_999255,W,loc_l,26-35,M,(p) VNE only,Enlisted,Army
+256,0.82,denied,denied,V_256,C_999256,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+257,0.62,granted,granted_0,V_257,C_999257,W,loc_j,76-85,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+258,0.92,granted,granted_0,V_258,C_999258,W,loc_a,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+259,0.95,granted,granted_0,V_259,C_999259,AA,loc_g,86-above,M,(p) VNE only,Enlisted,Army
+260,0.23,denied,denied,V_260,C_999260,AA,loc_e,26-35,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+261,0.21,granted,granted_10,V_261,C_999261,W,loc_h,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+262,0.30,granted,granted_0,V_262,C_999262,W,loc_g,76-85,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+263,0.53,granted,granted_0,V_263,C_999263,W,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Army
+264,0.76,denied,denied,V_264,C_999264,W,loc_j,76-85,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+265,0.34,denied,denied,V_265,C_999265,AA,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+266,0.75,denied,denied,V_266,C_999266,W,loc_g,66-75,M,(p) VNE only,Enlisted,Air Force
+267,0.14,denied,denied,V_267,C_999267,W,loc_f,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+268,0.86,granted,granted_0,V_268,C_999268,W,loc_f,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+269,0.43,granted,granted_0,V_269,C_999269,W,loc_k,76-85,M,(o) Between KC & VNE,Enlisted,Army
+270,0.63,granted,granted_0,V_270,C_999270,W,loc_l,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+271,0.57,granted,granted_0,V_271,C_999271,W,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Army
+272,0.15,denied,denied,V_272,C_999272,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+273,0.99,denied,denied,V_273,C_999273,W,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+274,0.95,granted,granted_0,V_274,C_999274,W,loc_l,76-85,F,(i) WWII only,Enlisted,Army
+275,0.61,granted,granted_0,V_275,C_999275,W,loc_c,76-85,M,(p) VNE only,Enlisted,Air Force
+276,0.76,denied,denied,V_276,C_999276,W,loc_i,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+277,0.46,granted,granted_0,V_277,C_999277,T,loc_i,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+278,0.21,denied,denied,V_278,C_999278,W,loc_c,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+279,0.42,granted,granted_0,V_279,C_999279,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+280,0.32,granted,granted_0,V_280,C_999280,AA,loc_g,66-75,M,(o) Between KC & VNE,Enlisted,Army
+281,0.01,granted,granted_10,V_281,C_999281,AA,loc_b,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+282,0.05,denied,denied,V_282,C_999282,W,loc_e,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+283,0.48,granted,granted_0,V_283,C_999283,HL,loc_g,66-75,M,(p) VNE only,Enlisted,Air Force
+284,0.35,denied,denied,V_284,C_999284,AA,loc_j,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+285,0.74,denied,denied,V_285,C_999285,W,loc_a,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+286,0.22,granted,granted_10,V_286,C_999286,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+287,0.28,denied,denied,V_287,C_999287,T,loc_i,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+288,0.76,granted,granted_0,V_288,C_999288,W,loc_e,76-85,ND,(w) GW Era - Post 9/11 only,Enlisted,Navy
+289,0.80,denied,denied,V_289,C_999289,A,loc_e,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+290,0.75,granted,granted_0,V_290,C_999290,O,loc_a,66-75,F,(p) VNE only,Enlisted,Army
+291,0.98,denied,denied,V_291,C_999291,W,loc_c,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+292,0.72,granted,granted_0,V_292,C_999292,W,loc_j,86-above,M,(p) VNE only,Enlisted,Navy
+293,0.85,denied,denied,V_293,C_999293,W,loc_e,66-75,M,(p) VNE only,Enlisted,Army
+294,0.87,granted,granted_0,V_294,C_999294,W,loc_f,56-65,M,(p) VNE only,Enlisted,Air Force
+295,0.70,denied,denied,V_295,C_999295,W,loc_l,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+296,0.22,granted,granted_10,V_296,C_999296,W,loc_h,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+297,0.29,granted,granted_10,V_297,C_999297,W,loc_a,76-85,M,(p) VNE only,Officer,Army
+298,0.91,granted,granted_0,V_298,C_999298,W,loc_i,66-75,M,(m) KC only,Enlisted,Army
+299,0.93,denied,denied,V_299,C_999299,W,loc_f,76-85,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+300,0.80,denied,denied,V_300,C_999300,HL,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+301,0.64,denied,denied,V_301,C_999301,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+302,0.75,granted,granted_0,V_302,C_999302,O,loc_j,76-85,M,(m) KC only,Enlisted,Navy
+303,0.22,denied,denied,V_303,C_999303,W,loc_c,66-75,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",Enlisted,Air Force
+304,0.24,denied,denied,V_304,C_999304,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+305,0.13,denied,denied,V_305,C_999305,W,loc_k,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+306,0.49,denied,denied,V_306,C_999306,AA,loc_b,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+307,0.13,denied,denied,V_307,C_999307,HL,loc_k,76-85,M,(p) VNE only,Enlisted,Army
+308,0.39,granted,granted_0,V_308,C_999308,W,loc_h,66-75,M,(p) VNE only,Enlisted,Air Force
+309,0.35,denied,denied,V_309,C_999309,A,loc_c,66-75,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+310,0.77,granted,granted_0,V_310,C_999310,W,loc_j,66-75,F,(t) Between VNE & GW Era,Enlisted,Army
+311,0.39,granted,granted_0,V_311,C_999311,W,loc_i,56-65,M,(t) Between VNE & GW Era,Enlisted,Navy
+312,0.82,granted,granted_0,V_312,C_999312,W,loc_f,26-35,M,(m) KC only,Enlisted,Army
+313,0.93,granted,granted_0,V_313,C_999313,AA,loc_l,76-85,M,(m) KC only,Enlisted,Reserve Forces
+314,0.25,denied,denied,V_314,C_999314,W,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+315,0.75,denied,denied,V_315,C_999315,W,loc_a,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+316,0.49,granted,granted_0,V_316,C_999316,W,loc_l,66-75,M,(p) VNE only,Enlisted,Army
+317,0.74,denied,denied,V_317,C_999317,W,loc_g,56-65,M,(m) KC only,Enlisted,Air Force
+318,0.42,denied,denied,V_318,C_999318,W,loc_k,66-75,M,(p) VNE only,Enlisted,Army
+319,0.92,denied,denied,V_319,C_999319,W,loc_l,36- 45,M,(t) Between VNE & GW Era,Enlisted,Army
+320,0.98,denied,denied,V_320,C_999320,W,loc_e,66-75,M,(p) VNE only,Enlisted,Navy
+321,0.57,denied,denied,V_321,C_999321,W,loc_a,76-85,ND,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Army
+322,0.23,granted,granted_10,V_322,C_999322,HL,loc_j,76-85,ND,(p) VNE only,Enlisted,Navy
+323,0.12,granted,granted_10,V_323,C_999323,W,loc_i,76-85,M,(p) VNE only,Enlisted,Non-Defense
+324,0.73,denied,denied,V_324,C_999324,W,loc_l,56-65,F,(t) Between VNE & GW Era,Enlisted,Army
+325,0.57,denied,denied,V_325,C_999325,P,loc_k,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+326,0.91,granted,granted_0,V_326,C_999326,T,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+327,0.64,denied,denied,V_327,C_999327,W,loc_f,56-65,F,(w) GW Era - Post 9/11 only,Officer,Air Force
+328,0.04,denied,denied,V_328,C_999328,W,loc_j,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+329,0.13,denied,denied,V_329,C_999329,P,loc_g,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+330,0.78,granted,granted_0,V_330,C_999330,O,loc_a,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+331,0.96,denied,denied,V_331,C_999331,AA,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+332,0.30,granted,granted_10,V_332,C_999332,AA,loc_l,66-75,M,(p) VNE only,Enlisted,Army
+333,0.72,denied,denied,V_333,C_999333,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+334,0.56,denied,denied,V_334,C_999334,T,loc_e,66-75,M,(p) VNE only,Enlisted,Navy
+335,0.49,granted,granted_0,V_335,C_999335,W,loc_h,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+336,0.54,denied,denied,V_336,C_999336,T,loc_k,66-75,M,(m) KC only,Enlisted,Air Force
+337,0.95,granted,granted_0,V_337,C_999337,W,loc_e,66-75,M,(t) Between VNE & GW Era,Enlisted,Navy
+338,0.45,denied,denied,V_338,C_999338,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+339,0.99,denied,denied,V_339,C_999339,W,loc_i,46-55,M,(t) Between VNE & GW Era,Enlisted,Navy
+340,0.34,denied,denied,V_340,C_999340,HL,loc_j,76-85,F,(o) Between KC & VNE,Enlisted,Air Force
+341,0.35,granted,granted_0,V_341,C_999341,W,loc_i,26-35,M,(i) WWII only,Enlisted,Navy
+342,0.40,denied,denied,V_342,C_999342,HL,loc_c,66-75,M,(o) Between KC & VNE,Enlisted,Army
+343,0.44,denied,denied,V_343,C_999343,HL,loc_g,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+344,0.36,denied,denied,V_344,C_999344,W,loc_e,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+345,0.52,granted,granted_0,V_345,C_999345,W,loc_c,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+346,0.53,denied,denied,V_346,C_999346,A,loc_k,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+347,0.77,denied,denied,V_347,C_999347,W,loc_j,76-85,F,(s) VNE & GW Era - Post 9/11,Enlisted,Army
+348,0.68,denied,denied,V_348,C_999348,W,loc_i,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+349,0.25,denied,denied,V_349,C_999349,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+350,0.75,granted,granted_0,V_350,C_999350,W,loc_l,76-85,M,(p) VNE only,Officer,Reserve Forces
+351,0.90,denied,denied,V_351,C_999351,T,loc_j,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+352,0.15,denied,denied,V_352,C_999352,W,loc_i,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+353,0.84,denied,denied,V_353,C_999353,W,loc_c,36- 45,M,(p) VNE only,Enlisted,Navy
+354,0.41,denied,denied,V_354,C_999354,W,loc_a,26-35,M,(t) Between VNE & GW Era,Enlisted,Army
+355,0.43,granted,granted_0,V_355,C_999355,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+356,0.32,granted,granted_0,V_356,C_999356,W,loc_j,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+357,0.73,denied,denied,V_357,C_999357,T,loc_k,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+358,0.46,denied,denied,V_358,C_999358,W,loc_i,76-85,M,(p) VNE only,Enlisted,Navy
+359,0.48,granted,granted_0,V_359,C_999359,W,loc_e,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+360,0.88,granted,granted_0,V_360,C_999360,A,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+361,0.28,granted,granted_10,V_361,C_999361,W,loc_d,86-above,M,(p) VNE only,Enlisted,Reserve Forces
+362,0.57,granted,granted_0,V_362,C_999362,HL,loc_a,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+363,0.13,granted,granted_10,V_363,C_999363,W,loc_l,76-85,M,(i) WWII only,Enlisted,Navy
+364,0.77,denied,denied,V_364,C_999364,W,loc_k,46-55,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Reserve Forces
+365,0.94,granted,granted_0,V_365,C_999365,W,loc_j,56-65,F,(o) Between KC & VNE,Enlisted,Navy
+366,0.18,granted,granted_10,V_366,C_999366,AA,loc_h,86-above,M,(m) KC only,Enlisted,Army
+367,0.13,granted,granted_10,V_367,C_999367,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+368,0.41,denied,denied,V_368,C_999368,AA,loc_c,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+369,0.36,denied,denied,V_369,C_999369,W,loc_i,66-75,M,(p) VNE only,Enlisted,Navy
+370,0.85,granted,granted_0,V_370,C_999370,W,loc_l,86-above,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+371,0.27,denied,denied,V_371,C_999371,W,loc_c,76-85,F,(p) VNE only,Enlisted,Air Force
+372,0.48,denied,denied,V_372,C_999372,W,loc_f,46-55,M,(o) Between KC & VNE,Enlisted,Air Force
+373,0.80,granted,granted_0,V_373,C_999373,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+374,0.68,denied,denied,V_374,C_999374,W,loc_e,76-85,ND,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+375,0.36,denied,denied,V_375,C_999375,W,loc_e,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+376,0.35,denied,denied,V_376,C_999376,W,loc_j,76-85,M,(p) VNE only,Enlisted,Air Force
+377,0.09,denied,denied,V_377,C_999377,W,loc_i,76-85,M,(o) Between KC & VNE,Enlisted,Army
+378,0.25,denied,denied,V_378,C_999378,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+379,0.82,granted,granted_0,V_379,C_999379,AA,loc_f,56-65,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+380,0.66,granted,granted_0,V_380,C_999380,AA,loc_j,76-85,ND,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+381,0.59,granted,granted_0,V_381,C_999381,W,loc_i,56-65,M,(p) VNE only,Officer,Army
+382,1.00,denied,denied,V_382,C_999382,W,loc_a,76-85,M,(p) VNE only,Enlisted,Army
+383,0.14,denied,denied,V_383,C_999383,W,loc_j,26-35,M,(p) VNE only,Enlisted,Marines
+384,0.33,denied,denied,V_384,C_999384,O,loc_i,66-75,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+385,0.21,denied,denied,V_385,C_999385,W,loc_j,46-55,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+386,0.88,denied,denied,V_386,C_999386,W,loc_c,56-65,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Air Force
+387,0.19,granted,granted_10,V_387,C_999387,O,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+388,0.85,denied,denied,V_388,C_999388,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+389,0.72,denied,denied,V_389,C_999389,A,loc_g,86-above,M,(t) Between VNE & GW Era,Enlisted,Navy
+390,0.97,granted,granted_0,V_390,C_999390,W,loc_l,76-85,F,(t) Between VNE & GW Era,Enlisted,Army
+391,0.43,granted,granted_0,V_391,C_999391,O,loc_g,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+392,0.38,denied,denied,V_392,C_999392,AA,loc_f,36- 45,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+393,0.31,granted,granted_0,V_393,C_999393,AA,loc_l,46-55,F,(t) Between VNE & GW Era,Enlisted,Navy
+394,0.63,granted,granted_0,V_394,C_999394,W,loc_k,66-75,M,(t) Between VNE & GW Era,Enlisted,Marines
+395,0.11,denied,denied,V_395,C_999395,W,loc_a,56-65,F,(t) Between VNE & GW Era,Enlisted,Navy
+396,0.18,denied,denied,V_396,C_999396,W,loc_j,76-85,F,(t) Between VNE & GW Era,Enlisted,Air Force
+397,0.90,granted,granted_0,V_397,C_999397,W,loc_h,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+398,0.01,granted,granted_10,V_398,C_999398,W,loc_h,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+399,0.17,denied,denied,V_399,C_999399,W,loc_e,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+400,0.26,granted,granted_10,V_400,C_999400,AA,loc_l,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+401,0.79,denied,denied,V_401,C_999401,W,loc_l,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+402,0.50,granted,granted_0,V_402,C_999402,AA,loc_d,76-85,M,(o) Between KC & VNE,Enlisted,Army
+403,0.89,denied,denied,V_403,C_999403,W,loc_j,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+404,0.21,denied,denied,V_404,C_999404,W,loc_j,76-85,M,(p) VNE only,Enlisted,Air Force
+405,0.39,granted,granted_0,V_405,C_999405,W,loc_e,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+406,0.64,denied,denied,V_406,C_999406,AA,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+407,0.70,granted,granted_0,V_407,C_999407,W,loc_d,66-75,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+408,0.71,granted,granted_0,V_408,C_999408,W,loc_j,26-35,M,(p) VNE only,Enlisted,Army
+409,0.02,granted,granted_10,V_409,C_999409,AA,loc_c,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+410,0.54,granted,granted_0,V_410,C_999410,AA,loc_d,66-75,M,(t) Between VNE & GW Era,Enlisted,Marines
+411,0.12,denied,denied,V_411,C_999411,W,loc_j,66-75,M,(o) Between KC & VNE,Enlisted,Reserve Forces
+412,0.42,granted,granted_0,V_412,C_999412,W,loc_j,56-65,M,(p) VNE only,Enlisted,Army
+413,0.69,denied,denied,V_413,C_999413,W,loc_i,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+414,0.74,granted,granted_0,V_414,C_999414,W,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+415,0.42,granted,granted_0,V_415,C_999415,W,loc_j,76-85,M,(p) VNE only,Enlisted,Marines
+416,0.07,denied,denied,V_416,C_999416,W,loc_b,56-65,M,(w) GW Era - Post 9/11 only,Officer,Navy
+417,0.72,granted,granted_0,V_417,C_999417,W,loc_c,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+418,0.18,denied,denied,V_418,C_999418,W,loc_f,36- 45,M,(o) Between KC & VNE,Enlisted,Navy
+419,0.76,granted,granted_0,V_419,C_999419,W,loc_i,56-65,ND,(w) GW Era - Post 9/11 only,Enlisted,Army
+420,0.37,granted,granted_0,V_420,C_999420,W,loc_l,86-above,M,(t) Between VNE & GW Era,Enlisted,Army
+421,0.26,granted,granted_10,V_421,C_999421,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+422,0.54,granted,granted_0,V_422,C_999422,W,loc_f,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+423,0.54,granted,granted_0,V_423,C_999423,W,loc_a,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+424,0.54,granted,granted_0,V_424,C_999424,W,loc_c,56-65,M,(p) VNE only,Enlisted,Army
+425,0.87,granted,granted_0,V_425,C_999425,HL,loc_c,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+426,0.26,granted,granted_10,V_426,C_999426,HL,loc_d,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+427,0.50,denied,denied,V_427,C_999427,HL,loc_c,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+428,0.31,granted,granted_0,V_428,C_999428,W,loc_f,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+429,0.42,denied,denied,V_429,C_999429,HL,loc_i,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+430,0.23,granted,granted_10,V_430,C_999430,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+431,0.74,denied,denied,V_431,C_999431,W,loc_a,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+432,0.25,denied,denied,V_432,C_999432,W,loc_e,46-55,M,(p) VNE only,Enlisted,Army
+433,0.35,granted,granted_0,V_433,C_999433,W,loc_a,56-65,M,(u) GW Era - Pre 9/11 only,Officer,Army
+434,0.11,denied,denied,V_434,C_999434,W,loc_f,76-85,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",Enlisted,Air Force
+435,0.96,denied,denied,V_435,C_999435,W,loc_k,26-35,F,(o) Between KC & VNE,Officer,Army
+436,0.42,granted,granted_0,V_436,C_999436,W,loc_j,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+437,0.39,denied,denied,V_437,C_999437,AA,loc_c,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+438,0.95,denied,denied,V_438,C_999438,W,loc_e,76-85,M,(p) VNE only,Enlisted,Marines
+439,0.46,denied,denied,V_439,C_999439,W,loc_c,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+440,0.46,denied,denied,V_440,C_999440,W,loc_f,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+441,0.37,denied,denied,V_441,C_999441,AI,loc_e,26-35,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+442,0.23,denied,denied,V_442,C_999442,AA,loc_c,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+443,0.93,denied,denied,V_443,C_999443,W,loc_c,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+444,0.18,denied,denied,V_444,C_999444,W,loc_l,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+445,0.36,granted,granted_0,V_445,C_999445,W,loc_g,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+446,0.62,granted,granted_0,V_446,C_999446,T,loc_c,76-85,M,(p) VNE only,Enlisted,Army
+447,0.76,granted,granted_0,V_447,C_999447,AA,loc_h,56-65,F,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+448,0.37,denied,denied,V_448,C_999448,W,loc_k,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+449,0.27,denied,denied,V_449,C_999449,W,loc_a,76-85,M,(m) KC only,Enlisted,Air Force
+450,0.47,denied,denied,V_450,C_999450,W,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+451,0.97,denied,denied,V_451,C_999451,AA,loc_e,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+452,0.47,granted,granted_0,V_452,C_999452,W,loc_f,76-85,M,(m) KC only,Enlisted,Air Force
+453,0.83,granted,granted_0,V_453,C_999453,W,loc_i,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+454,0.99,granted,granted_0,V_454,C_999454,W,loc_f,66-75,F,(o) Between KC & VNE,Enlisted,Non-Defense
+455,0.47,denied,denied,V_455,C_999455,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+456,0.81,denied,denied,V_456,C_999456,W,loc_j,66-75,F,(p) VNE only,Enlisted,Marines
+457,0.56,denied,denied,V_457,C_999457,W,loc_j,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+458,0.52,granted,granted_0,V_458,C_999458,W,loc_d,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+459,0.13,granted,granted_10,V_459,C_999459,W,loc_k,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+460,0.39,granted,granted_0,V_460,C_999460,AA,loc_j,26-35,M,(i) WWII only,Enlisted,Army
+461,0.53,denied,denied,V_461,C_999461,AA,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+462,0.98,granted,granted_0,V_462,C_999462,AA,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+463,0.49,denied,denied,V_463,C_999463,W,loc_a,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+464,0.54,granted,granted_0,V_464,C_999464,HL,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+465,0.30,granted,granted_0,V_465,C_999465,W,loc_j,66-75,F,(p) VNE only,Officer,Army
+466,0.71,granted,granted_0,V_466,C_999466,W,loc_k,26-35,M,(t) Between VNE & GW Era,Enlisted,Army
+467,0.89,granted,granted_0,V_467,C_999467,AA,loc_j,56-65,ND,(o) Between KC & VNE,Enlisted,Army
+468,0.73,denied,denied,V_468,C_999468,W,loc_k,56-65,M,(p) VNE only,Enlisted,Marines
+469,0.78,denied,denied,V_469,C_999469,O,loc_a,56-65,M,(p) VNE only,Enlisted,Navy
+470,0.59,denied,denied,V_470,C_999470,T,loc_e,66-75,ND,(t) Between VNE & GW Era,Enlisted,Marines
+471,0.53,denied,denied,V_471,C_999471,W,loc_f,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+472,0.42,denied,denied,V_472,C_999472,W,loc_f,66-75,M,(p) VNE only,Enlisted,Army
+473,0.23,denied,denied,V_473,C_999473,W,loc_d,76-85,M,(p) VNE only,Enlisted,Navy
+474,0.22,denied,denied,V_474,C_999474,AA,loc_l,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+475,0.25,granted,granted_10,V_475,C_999475,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+476,0.73,denied,denied,V_476,C_999476,HL,loc_c,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+477,0.47,granted,granted_0,V_477,C_999477,HL,loc_l,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+478,0.99,granted,granted_0,V_478,C_999478,W,loc_g,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+479,0.50,granted,granted_0,V_479,C_999479,W,loc_e,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+480,0.80,denied,denied,V_480,C_999480,W,loc_c,86-above,M,(t) Between VNE & GW Era,Enlisted,Army
+481,0.72,denied,denied,V_481,C_999481,W,loc_l,66-75,F,(o) Between KC & VNE,Enlisted,Air Force
+482,0.40,denied,denied,V_482,C_999482,W,loc_e,36- 45,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+483,0.35,granted,granted_0,V_483,C_999483,W,loc_l,76-85,M,(p) VNE only,Enlisted,Reserve Forces
+484,0.69,granted,granted_0,V_484,C_999484,AA,loc_f,56-65,F,(m) KC only,Enlisted,Navy
+485,0.42,denied,denied,V_485,C_999485,W,loc_k,76-85,M,(p) VNE only,Enlisted,Army
+486,0.34,granted,granted_0,V_486,C_999486,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+487,0.58,granted,granted_0,V_487,C_999487,W,loc_a,66-75,M,(t) Between VNE & GW Era,Officer,Army
+488,0.82,denied,denied,V_488,C_999488,W,loc_j,76-85,F,(p) VNE only,Officer,Navy
+489,0.02,granted,granted_10,V_489,C_999489,W,loc_l,46-55,F,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+490,0.09,denied,denied,V_490,C_999490,W,loc_j,56-65,M,(p) VNE only,Officer,Air Force
+491,0.84,denied,denied,V_491,C_999491,W,loc_g,76-85,M,(t) Between VNE & GW Era,Enlisted,Marines
+492,0.46,granted,granted_0,V_492,C_999492,W,loc_j,66-75,ND,(w) GW Era - Post 9/11 only,Officer,Army
+493,0.01,denied,denied,V_493,C_999493,W,loc_i,76-85,ND,(t) Between VNE & GW Era,Officer,Army
+494,0.99,granted,granted_0,V_494,C_999494,AI,loc_l,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+495,0.64,granted,granted_0,V_495,C_999495,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+496,0.88,granted,granted_0,V_496,C_999496,W,loc_a,76-85,M,(o) Between KC & VNE,Enlisted,Air Force
+497,0.64,denied,denied,V_497,C_999497,W,loc_e,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+498,0.79,denied,denied,V_498,C_999498,W,loc_g,56-65,F,(p) VNE only,Enlisted,Army
+499,0.86,denied,denied,V_499,C_999499,W,loc_c,56-65,M,(p) VNE only,Enlisted,Army
+500,0.61,denied,denied,V_500,C_999500,W,loc_f,56-65,M,(p) VNE only,Enlisted,Navy
+501,0.60,denied,denied,V_501,C_999501,W,loc_k,66-75,M,(m) KC only,Enlisted,Navy
+502,0.64,granted,granted_0,V_502,C_999502,W,loc_a,86-above,M,(p) VNE only,Enlisted,Marines
+503,0.47,denied,denied,V_503,C_999503,AA,loc_l,76-85,M,(o) Between KC & VNE,Enlisted,Army
+504,0.09,granted,granted_10,V_504,C_999504,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+505,0.23,denied,denied,V_505,C_999505,W,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Officer,Marines
+506,0.96,denied,denied,V_506,C_999506,W,loc_j,86-above,M,(p) VNE only,Officer,Reserve Forces
+507,0.17,denied,denied,V_507,C_999507,W,loc_j,36- 45,M,(p) VNE only,Enlisted,Air Force
+508,0.64,denied,denied,V_508,C_999508,T,loc_g,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+509,0.40,granted,granted_0,V_509,C_999509,W,loc_g,56-65,F,(p) VNE only,Enlisted,Army
+510,0.38,granted,granted_0,V_510,C_999510,W,loc_k,56-65,F,(q) VNE & GW Era - Pre 9/11,Enlisted,Navy
+511,0.03,denied,denied,V_511,C_999511,W,loc_a,66-75,M,(i) WWII only,Officer,Navy
+512,0.49,denied,denied,V_512,C_999512,W,loc_j,66-75,M,(p) VNE only,Enlisted,Marines
+513,0.18,denied,denied,V_513,C_999513,W,loc_l,66-75,F,(i) WWII only,Enlisted,Army
+514,0.96,denied,denied,V_514,C_999514,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+515,0.51,denied,denied,V_515,C_999515,W,loc_i,56-65,M,(p) VNE only,Enlisted,Air Force
+516,0.02,granted,granted_10,V_516,C_999516,W,loc_e,56-65,F,(o) Between KC & VNE,Enlisted,Reserve Forces
+517,0.66,granted,granted_0,V_517,C_999517,AA,loc_i,26-35,M,(p) VNE only,Enlisted,Non-Defense
+518,0.57,denied,denied,V_518,C_999518,W,loc_l,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+519,0.60,denied,denied,V_519,C_999519,AA,loc_c,46-55,F,(t) Between VNE & GW Era,Enlisted,Navy
+520,0.17,denied,denied,V_520,C_999520,W,loc_i,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+521,0.83,granted,granted_0,V_521,C_999521,AA,loc_f,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+522,0.17,denied,denied,V_522,C_999522,AA,loc_l,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+523,0.05,denied,denied,V_523,C_999523,W,loc_c,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+524,0.57,denied,denied,V_524,C_999524,W,loc_c,56-65,M,(p) VNE only,Enlisted,Air Force
+525,0.06,granted,granted_10,V_525,C_999525,W,loc_l,86-above,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+526,0.08,granted,granted_10,V_526,C_999526,HL,loc_l,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+527,0.74,granted,granted_0,V_527,C_999527,W,loc_k,76-85,M,(m) KC only,Enlisted,Army
+528,0.70,denied,denied,V_528,C_999528,W,loc_d,56-65,ND,(w) GW Era - Post 9/11 only,Enlisted,Navy
+529,0.42,denied,denied,V_529,C_999529,W,loc_f,56-65,M,(p) VNE only,Enlisted,Air Force
+530,0.15,denied,denied,V_530,C_999530,W,loc_a,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+531,0.73,granted,granted_0,V_531,C_999531,W,loc_f,46-55,M,(p) VNE only,Enlisted,Army
+532,0.87,denied,denied,V_532,C_999532,AA,loc_f,36- 45,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Army
+533,0.00,granted,granted_10,V_533,C_999533,W,loc_a,66-75,F,(p) VNE only,Enlisted,Navy
+534,0.40,denied,denied,V_534,C_999534,A,loc_j,66-75,M,(p) VNE only,Enlisted,Air Force
+535,0.37,denied,denied,V_535,C_999535,T,loc_d,76-85,F,(p) VNE only,Enlisted,Marines
+536,0.96,denied,denied,V_536,C_999536,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+537,0.95,granted,granted_0,V_537,C_999537,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+538,0.12,denied,denied,V_538,C_999538,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+539,0.06,granted,granted_10,V_539,C_999539,AA,loc_j,46-55,M,(p) VNE only,Enlisted,Air Force
+540,0.47,denied,denied,V_540,C_999540,T,loc_i,36- 45,M,(p) VNE only,Officer,Navy
+541,0.74,denied,denied,V_541,C_999541,W,loc_i,76-85,M,(p) VNE only,Enlisted,Army
+542,0.81,granted,granted_0,V_542,C_999542,W,loc_k,76-85,M,(p) VNE only,Enlisted,Army
+543,0.57,denied,denied,V_543,C_999543,W,loc_f,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+544,0.02,denied,denied,V_544,C_999544,W,loc_j,86-above,M,(p) VNE only,Enlisted,Air Force
+545,0.32,granted,granted_0,V_545,C_999545,W,loc_j,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+546,0.87,denied,denied,V_546,C_999546,W,loc_g,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+547,0.15,granted,granted_10,V_547,C_999547,W,loc_j,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Reserve Forces
+548,0.26,denied,denied,V_548,C_999548,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+549,0.44,granted,granted_0,V_549,C_999549,W,loc_i,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+550,0.67,granted,granted_0,V_550,C_999550,W,loc_e,36- 45,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+551,0.52,denied,denied,V_551,C_999551,W,loc_h,86-above,M,(p) VNE only,Enlisted,Army
+552,0.61,granted,granted_0,V_552,C_999552,W,loc_b,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+553,0.59,denied,denied,V_553,C_999553,W,loc_i,66-75,M,(p) VNE only,Officer,Army
+554,0.56,granted,granted_0,V_554,C_999554,W,loc_a,46-55,M,(t) Between VNE & GW Era,Enlisted,Navy
+555,0.38,granted,granted_0,V_555,C_999555,W,loc_i,76-85,M,(p) VNE only,Enlisted,Air Force
+556,0.80,denied,denied,V_556,C_999556,W,loc_a,36- 45,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+557,0.68,denied,denied,V_557,C_999557,W,loc_g,76-85,M,(o) Between KC & VNE,Enlisted,Air Force
+558,0.29,granted,granted_10,V_558,C_999558,HL,loc_c,66-75,M,(p) VNE only,Enlisted,Army
+559,0.11,denied,denied,V_559,C_999559,W,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+560,0.18,denied,denied,V_560,C_999560,W,loc_a,56-65,M,(p) VNE only,Enlisted,Army
+561,0.50,denied,denied,V_561,C_999561,W,loc_f,66-75,M,(m) KC only,Enlisted,Army
+562,0.80,denied,denied,V_562,C_999562,W,loc_j,36- 45,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+563,0.66,denied,denied,V_563,C_999563,W,loc_i,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+564,0.81,denied,denied,V_564,C_999564,W,loc_a,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Marines
+565,0.29,granted,granted_10,V_565,C_999565,A,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+566,0.57,granted,granted_0,V_566,C_999566,W,loc_a,36- 45,M,(t) Between VNE & GW Era,Enlisted,Army
+567,0.44,granted,granted_0,V_567,C_999567,AI,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+568,0.27,denied,denied,V_568,C_999568,W,loc_l,26-35,M,(o) Between KC & VNE,Enlisted,Army
+569,0.75,granted,granted_0,V_569,C_999569,W,loc_e,66-75,M,(p) VNE only,Enlisted,Marines
+570,0.43,granted,granted_0,V_570,C_999570,W,loc_l,76-85,M,(o) Between KC & VNE,Enlisted,Marines
+571,0.51,denied,denied,V_571,C_999571,AA,loc_f,66-75,ND,(t) Between VNE & GW Era,Enlisted,Navy
+572,0.20,denied,denied,V_572,C_999572,W,loc_d,76-85,M,(o) Between KC & VNE,Enlisted,Marines
+573,0.23,denied,denied,V_573,C_999573,W,loc_i,56-65,M,(p) VNE only,Enlisted,Reserve Forces
+574,0.83,granted,granted_0,V_574,C_999574,W,loc_i,46-55,M,(p) VNE only,Enlisted,Army
+575,0.91,denied,denied,V_575,C_999575,AA,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+576,0.82,granted,granted_0,V_576,C_999576,W,loc_j,76-85,ND,(s) VNE & GW Era - Post 9/11,Enlisted,Army
+577,0.27,granted,granted_10,V_577,C_999577,W,loc_c,66-75,M,(p) VNE only,Enlisted,Army
+578,0.10,denied,denied,V_578,C_999578,W,loc_h,46-55,M,(t) Between VNE & GW Era,Enlisted,Army
+579,0.77,granted,granted_0,V_579,C_999579,W,loc_e,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+580,0.44,denied,denied,V_580,C_999580,W,loc_g,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+581,0.81,denied,denied,V_581,C_999581,W,loc_e,76-85,M,(m) KC only,Enlisted,Army
+582,0.04,granted,granted_10,V_582,C_999582,W,loc_i,26-35,M,(u) GW Era - Pre 9/11 only,Officer,Navy
+583,0.95,denied,denied,V_583,C_999583,W,loc_i,76-85,M,(p) VNE only,Enlisted,Army
+584,0.71,denied,denied,V_584,C_999584,W,loc_b,76-85,M,(t) Between VNE & GW Era,Enlisted,Air Force
+585,0.66,denied,denied,V_585,C_999585,W,loc_a,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+586,0.82,granted,granted_0,V_586,C_999586,W,loc_c,76-85,ND,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+587,0.07,granted,granted_10,V_587,C_999587,W,loc_l,66-75,M,(o) Between KC & VNE,Officer,Navy
+588,0.07,denied,denied,V_588,C_999588,W,loc_f,56-65,M,(t) Between VNE & GW Era,Enlisted,Marines
+589,0.84,denied,denied,V_589,C_999589,W,loc_j,25-under,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+590,0.21,denied,denied,V_590,C_999590,HL,loc_a,26-35,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+591,0.59,granted,granted_0,V_591,C_999591,P,loc_e,76-85,F,(t) Between VNE & GW Era,Enlisted,Air Force
+592,0.56,denied,denied,V_592,C_999592,W,loc_i,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+593,0.19,granted,granted_10,V_593,C_999593,W,loc_f,56-65,M,(p) VNE only,Enlisted,Army
+594,0.04,granted,granted_10,V_594,C_999594,W,loc_l,56-65,M,(t) Between VNE & GW Era,Enlisted,Navy
+595,0.39,denied,denied,V_595,C_999595,AA,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+596,0.78,denied,denied,V_596,C_999596,W,loc_c,56-65,M,(p) VNE only,Enlisted,Army
+597,0.80,denied,denied,V_597,C_999597,W,loc_j,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+598,0.38,denied,denied,V_598,C_999598,HL,loc_a,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+599,0.94,granted,granted_0,V_599,C_999599,W,loc_i,76-85,M,(o) Between KC & VNE,Enlisted,Navy
+600,0.24,granted,granted_10,V_600,C_999600,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+601,0.26,denied,denied,V_601,C_999601,AA,loc_k,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+602,0.52,granted,granted_0,V_602,C_999602,W,loc_i,76-85,M,(p) VNE only,Enlisted,Army
+603,0.56,denied,denied,V_603,C_999603,A,loc_f,76-85,F,(p) VNE only,Enlisted,Air Force
+604,0.41,granted,granted_0,V_604,C_999604,AA,loc_d,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+605,0.09,granted,granted_10,V_605,C_999605,W,loc_d,46-55,M,(t) Between VNE & GW Era,Enlisted,Air Force
+606,0.02,granted,granted_10,V_606,C_999606,W,loc_h,36- 45,M,(t) Between VNE & GW Era,Enlisted,Navy
+607,0.75,granted,granted_0,V_607,C_999607,W,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+608,0.02,granted,granted_10,V_608,C_999608,W,loc_a,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+609,0.31,granted,granted_0,V_609,C_999609,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+610,0.88,denied,denied,V_610,C_999610,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+611,0.71,granted,granted_0,V_611,C_999611,W,loc_j,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+612,0.45,granted,granted_0,V_612,C_999612,W,loc_f,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+613,0.18,denied,denied,V_613,C_999613,AA,loc_j,66-75,M,(p) VNE only,Enlisted,Navy
+614,0.56,granted,granted_0,V_614,C_999614,HL,loc_l,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+615,0.89,denied,denied,V_615,C_999615,W,loc_j,66-75,M,(p) VNE only,Enlisted,Air Force
+616,0.12,denied,denied,V_616,C_999616,W,loc_k,56-65,F,(t) Between VNE & GW Era,Enlisted,Air Force
+617,0.65,denied,denied,V_617,C_999617,AA,loc_k,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+618,0.64,denied,denied,V_618,C_999618,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+619,0.27,granted,granted_10,V_619,C_999619,W,loc_e,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+620,0.02,granted,granted_10,V_620,C_999620,W,loc_l,66-75,F,(u) GW Era - Pre 9/11 only,Officer,Army
+621,0.70,denied,denied,V_621,C_999621,T,loc_k,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+622,0.42,denied,denied,V_622,C_999622,W,loc_j,76-85,M,(i) WWII only,Officer,Navy
+623,0.52,denied,denied,V_623,C_999623,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Reserve Forces
+624,0.88,denied,denied,V_624,C_999624,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+625,0.74,granted,granted_0,V_625,C_999625,W,loc_c,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+626,0.57,granted,granted_0,V_626,C_999626,W,loc_j,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+627,0.90,denied,denied,V_627,C_999627,W,loc_l,66-75,M,(m) KC only,Enlisted,Army
+628,0.29,granted,granted_10,V_628,C_999628,W,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+629,0.91,granted,granted_0,V_629,C_999629,HL,loc_i,66-75,M,(p) VNE only,Enlisted,Air Force
+630,0.50,granted,granted_0,V_630,C_999630,W,loc_f,66-75,M,(p) VNE only,Enlisted,Marines
+631,0.22,granted,granted_10,V_631,C_999631,W,loc_l,66-75,M,(t) Between VNE & GW Era,Enlisted,Non-Defense
+632,0.37,denied,denied,V_632,C_999632,W,loc_j,56-65,F,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",Enlisted,Army
+633,0.83,denied,denied,V_633,C_999633,W,loc_e,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+634,0.16,denied,denied,V_634,C_999634,W,loc_f,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+635,0.51,granted,granted_0,V_635,C_999635,A,loc_i,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+636,0.08,granted,granted_10,V_636,C_999636,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Officer,Army
+637,0.98,granted,granted_0,V_637,C_999637,W,loc_j,66-75,M,(o) Between KC & VNE,Officer,Marines
+638,0.73,granted,granted_0,V_638,C_999638,A,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+639,0.94,granted,granted_0,V_639,C_999639,AA,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+640,0.81,denied,denied,V_640,C_999640,W,loc_j,66-75,M,(p) VNE only,Enlisted,Reserve Forces
+641,0.09,granted,granted_10,V_641,C_999641,W,loc_e,66-75,F,(t) Between VNE & GW Era,Enlisted,Navy
+642,0.44,denied,denied,V_642,C_999642,AA,loc_k,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Reserve Forces
+643,0.47,denied,denied,V_643,C_999643,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Officer,Air Force
+644,0.75,granted,granted_0,V_644,C_999644,AI,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+645,0.36,granted,granted_0,V_645,C_999645,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+646,0.30,granted,granted_0,V_646,C_999646,W,loc_l,66-75,M,(p) VNE only,Enlisted,Air Force
+647,0.70,denied,denied,V_647,C_999647,W,loc_j,76-85,M,(p) VNE only,Enlisted,Navy
+648,0.50,granted,granted_0,V_648,C_999648,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+649,0.79,denied,denied,V_649,C_999649,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+650,0.84,denied,denied,V_650,C_999650,W,loc_b,76-85,F,(p) VNE only,Enlisted,Army
+651,0.17,denied,denied,V_651,C_999651,W,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+652,0.49,granted,granted_0,V_652,C_999652,W,loc_g,36- 45,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+653,0.71,granted,granted_0,V_653,C_999653,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+654,0.28,granted,granted_10,V_654,C_999654,W,loc_j,56-65,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+655,0.76,denied,denied,V_655,C_999655,W,loc_f,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+656,0.17,granted,granted_10,V_656,C_999656,AA,loc_j,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+657,0.57,granted,granted_0,V_657,C_999657,W,loc_e,46-55,M,(p) VNE only,Officer,Navy
+658,0.19,granted,granted_10,V_658,C_999658,A,loc_l,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+659,0.47,denied,denied,V_659,C_999659,W,loc_k,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+660,0.66,granted,granted_0,V_660,C_999660,O,loc_j,56-65,M,(o) Between KC & VNE,Enlisted,Navy
+661,0.23,granted,granted_10,V_661,C_999661,W,loc_i,36- 45,M,(o) Between KC & VNE,Enlisted,Reserve Forces
+662,0.33,granted,granted_0,V_662,C_999662,W,loc_d,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+663,0.48,denied,denied,V_663,C_999663,W,loc_h,46-55,M,(m) KC only,Enlisted,Army
+664,0.94,denied,denied,V_664,C_999664,AA,loc_l,76-85,M,(p) VNE only,Enlisted,Army
+665,0.12,granted,granted_10,V_665,C_999665,HL,loc_d,26-35,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+666,0.34,granted,granted_0,V_666,C_999666,HL,loc_l,66-75,M,(o) Between KC & VNE,Enlisted,Reserve Forces
+667,0.57,denied,denied,V_667,C_999667,W,loc_j,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+668,0.20,denied,denied,V_668,C_999668,W,loc_i,76-85,F,(p) VNE only,Officer,Air Force
+669,0.67,granted,granted_0,V_669,C_999669,W,loc_j,46-55,M,(p) VNE only,Enlisted,Army
+670,0.56,granted,granted_0,V_670,C_999670,W,loc_k,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+671,0.94,denied,denied,V_671,C_999671,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+672,0.13,denied,denied,V_672,C_999672,W,loc_a,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+673,0.17,denied,denied,V_673,C_999673,W,loc_a,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+674,0.77,denied,denied,V_674,C_999674,W,loc_a,56-65,M,(p) VNE only,Officer,Navy
+675,0.46,denied,denied,V_675,C_999675,AA,loc_i,56-65,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+676,0.36,denied,denied,V_676,C_999676,W,loc_d,56-65,M,(p) VNE only,Enlisted,Air Force
+677,0.07,granted,granted_10,V_677,C_999677,W,loc_f,76-85,M,(p) VNE only,Enlisted,Army
+678,0.35,granted,granted_0,V_678,C_999678,W,loc_e,66-75,M,(m) KC only,Enlisted,Army
+679,0.30,granted,granted_10,V_679,C_999679,W,loc_c,86-above,M,(p) VNE only,Enlisted,Army
+680,0.66,granted,granted_0,V_680,C_999680,W,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+681,0.46,denied,denied,V_681,C_999681,W,loc_c,66-75,F,(p) VNE only,Enlisted,Army
+682,0.50,granted,granted_0,V_682,C_999682,W,loc_j,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+683,0.32,granted,granted_0,V_683,C_999683,W,loc_i,66-75,M,(p) VNE only,Enlisted,Army
+684,0.59,denied,denied,V_684,C_999684,W,loc_a,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+685,0.90,denied,denied,V_685,C_999685,A,loc_j,56-65,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+686,0.62,denied,denied,V_686,C_999686,W,loc_e,26-35,M,(p) VNE only,Enlisted,Navy
+687,0.88,granted,granted_0,V_687,C_999687,W,loc_e,66-75,M,(p) VNE only,Enlisted,Navy
+688,0.80,granted,granted_0,V_688,C_999688,W,loc_g,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+689,0.53,granted,granted_0,V_689,C_999689,AI,loc_f,86-above,F,(p) VNE only,Enlisted,Army
+690,0.61,denied,denied,V_690,C_999690,W,loc_j,56-65,F,(p) VNE only,Enlisted,Army
+691,0.42,granted,granted_0,V_691,C_999691,W,loc_e,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+692,0.98,denied,denied,V_692,C_999692,W,loc_j,36- 45,M,(p) VNE only,Enlisted,Army
+693,0.88,denied,denied,V_693,C_999693,AA,loc_i,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+694,0.60,denied,denied,V_694,C_999694,W,loc_a,26-35,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+695,0.27,denied,denied,V_695,C_999695,AA,loc_h,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+696,0.56,granted,granted_0,V_696,C_999696,AA,loc_i,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+697,0.09,denied,denied,V_697,C_999697,W,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Navy
+698,0.31,granted,granted_0,V_698,C_999698,W,loc_j,56-65,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+699,0.51,granted,granted_0,V_699,C_999699,W,loc_i,76-85,F,(p) VNE only,Enlisted,Navy
+700,0.22,denied,denied,V_700,C_999700,W,loc_l,56-65,M,(p) VNE only,Enlisted,Air Force
+701,0.97,denied,denied,V_701,C_999701,W,loc_e,56-65,F,(m) KC only,Enlisted,Navy
+702,0.27,granted,granted_10,V_702,C_999702,W,loc_i,56-65,M,(p) VNE only,Enlisted,Army
+703,0.79,denied,denied,V_703,C_999703,W,loc_c,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+704,0.07,denied,denied,V_704,C_999704,W,loc_c,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+705,0.84,denied,denied,V_705,C_999705,W,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+706,0.94,granted,granted_0,V_706,C_999706,W,loc_j,56-65,M,(p) VNE only,Enlisted,Army
+707,0.56,denied,denied,V_707,C_999707,W,loc_l,36- 45,F,(p) VNE only,Enlisted,Army
+708,0.05,granted,granted_10,V_708,C_999708,AA,loc_e,56-65,M,(p) VNE only,Enlisted,Reserve Forces
+709,0.24,granted,granted_10,V_709,C_999709,W,loc_g,86-above,M,(t) Between VNE & GW Era,Officer,Navy
+710,0.17,granted,granted_10,V_710,C_999710,W,loc_a,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+711,0.41,granted,granted_0,V_711,C_999711,O,loc_l,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+712,0.61,granted,granted_0,V_712,C_999712,AA,loc_c,56-65,M,(t) Between VNE & GW Era,Enlisted,Reserve Forces
+713,0.68,denied,denied,V_713,C_999713,W,loc_b,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+714,0.60,granted,granted_0,V_714,C_999714,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+715,0.13,granted,granted_10,V_715,C_999715,W,loc_k,46-55,M,(p) VNE only,Officer,Army
+716,0.51,denied,denied,V_716,C_999716,W,loc_c,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+717,0.35,denied,denied,V_717,C_999717,W,loc_g,76-85,M,(o) Between KC & VNE,Officer,Marines
+718,0.20,denied,denied,V_718,C_999718,HL,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+719,0.96,granted,granted_0,V_719,C_999719,W,loc_c,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+720,0.29,granted,granted_10,V_720,C_999720,W,loc_k,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+721,0.61,granted,granted_0,V_721,C_999721,AI,loc_l,66-75,M,(p) VNE only,Enlisted,Army
+722,0.43,denied,denied,V_722,C_999722,HL,loc_e,56-65,M,(w) GW Era - Post 9/11 only,Officer,Army
+723,0.41,granted,granted_0,V_723,C_999723,A,loc_e,76-85,M,(t) Between VNE & GW Era,Officer,Army
+724,0.78,granted,granted_0,V_724,C_999724,W,loc_l,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+725,0.59,denied,denied,V_725,C_999725,HL,loc_c,26-35,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+726,0.05,denied,denied,V_726,C_999726,W,loc_c,76-85,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+727,0.67,granted,granted_0,V_727,C_999727,AA,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+728,0.17,denied,denied,V_728,C_999728,W,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Marines
+729,0.33,granted,granted_0,V_729,C_999729,W,loc_e,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+730,0.81,granted,granted_0,V_730,C_999730,W,loc_d,66-75,M,(o) Between KC & VNE,Enlisted,Army
+731,0.42,denied,denied,V_731,C_999731,A,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Marines
+732,0.77,denied,denied,V_732,C_999732,W,loc_f,36- 45,F,(p) VNE only,Enlisted,Army
+733,0.80,denied,denied,V_733,C_999733,W,loc_e,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+734,0.17,denied,denied,V_734,C_999734,AI,loc_h,66-75,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+735,0.69,denied,denied,V_735,C_999735,HL,loc_a,56-65,F,(o) Between KC & VNE,Enlisted,Army
+736,0.16,granted,granted_10,V_736,C_999736,W,loc_k,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+737,0.67,denied,denied,V_737,C_999737,W,loc_c,76-85,M,(m) KC only,Enlisted,Army
+738,0.34,denied,denied,V_738,C_999738,AA,loc_d,76-85,M,(t) Between VNE & GW Era,Officer,Army
+739,0.61,denied,denied,V_739,C_999739,W,loc_l,76-85,M,(p) VNE only,Enlisted,Army
+740,0.97,granted,granted_0,V_740,C_999740,W,loc_f,36- 45,M,(m) KC only,Enlisted,Air Force
+741,0.22,granted,granted_10,V_741,C_999741,W,loc_l,76-85,M,(p) VNE only,Enlisted,Navy
+742,0.35,granted,granted_0,V_742,C_999742,W,loc_c,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+743,0.69,granted,granted_0,V_743,C_999743,W,loc_i,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+744,0.88,denied,denied,V_744,C_999744,W,loc_j,76-85,F,(o) Between KC & VNE,Enlisted,Air Force
+745,0.50,granted,granted_0,V_745,C_999745,W,loc_l,56-65,M,(t) Between VNE & GW Era,Enlisted,Navy
+746,0.80,granted,granted_0,V_746,C_999746,W,loc_a,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+747,0.20,denied,denied,V_747,C_999747,W,loc_j,66-75,M,(p) VNE only,Enlisted,Air Force
+748,0.73,granted,granted_0,V_748,C_999748,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+749,0.98,denied,denied,V_749,C_999749,AA,loc_c,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+750,0.31,denied,denied,V_750,C_999750,HL,loc_l,56-65,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+751,0.30,granted,granted_10,V_751,C_999751,W,loc_e,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+752,0.62,granted,granted_0,V_752,C_999752,AA,loc_l,76-85,ND,(p) VNE only,Officer,Navy
+753,0.02,denied,denied,V_753,C_999753,T,loc_e,46-55,F,(p) VNE only,Enlisted,Army
+754,0.01,granted,granted_10,V_754,C_999754,W,loc_j,66-75,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Marines
+755,0.02,granted,granted_10,V_755,C_999755,HL,loc_e,76-85,M,(o) Between KC & VNE,Enlisted,Army
+756,0.17,denied,denied,V_756,C_999756,W,loc_f,36- 45,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+757,0.08,denied,denied,V_757,C_999757,AA,loc_k,76-85,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Marines
+758,0.36,denied,denied,V_758,C_999758,W,loc_i,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+759,0.37,denied,denied,V_759,C_999759,W,loc_j,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+760,0.01,granted,granted_10,V_760,C_999760,W,loc_l,66-75,M,(m) KC only,Enlisted,Navy
+761,0.79,denied,denied,V_761,C_999761,W,loc_l,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+762,0.20,denied,denied,V_762,C_999762,W,loc_c,66-75,M,(w) GW Era - Post 9/11 only,Officer,Army
+763,0.81,granted,granted_0,V_763,C_999763,AA,loc_a,86-above,M,(t) Between VNE & GW Era,Enlisted,Navy
+764,0.10,denied,denied,V_764,C_999764,AA,loc_e,56-65,M,(p) VNE only,Enlisted,Army
+765,0.47,granted,granted_0,V_765,C_999765,W,loc_d,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+766,0.99,granted,granted_0,V_766,C_999766,W,loc_j,86-above,M,(p) VNE only,Enlisted,Air Force
+767,0.54,granted,granted_0,V_767,C_999767,W,loc_a,76-85,F,(p) VNE only,Enlisted,Army
+768,0.04,granted,granted_10,V_768,C_999768,W,loc_e,76-85,M,(p) VNE only,Enlisted,Navy
+769,0.05,granted,granted_10,V_769,C_999769,W,loc_b,66-75,M,(p) VNE only,Enlisted,Army
+770,0.15,denied,denied,V_770,C_999770,A,loc_k,66-75,F,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+771,0.16,denied,denied,V_771,C_999771,W,loc_e,76-85,M,(p) VNE only,Enlisted,Non-Defense
+772,1.00,granted,granted_0,V_772,C_999772,W,loc_k,76-85,M,(m) KC only,Officer,Army
+773,0.08,granted,granted_10,V_773,C_999773,AA,loc_g,66-75,M,(w) GW Era - Post 9/11 only,Officer,Army
+774,0.51,denied,denied,V_774,C_999774,W,loc_c,56-65,M,(p) VNE only,Enlisted,Navy
+775,0.88,granted,granted_0,V_775,C_999775,W,loc_f,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+776,0.08,granted,granted_10,V_776,C_999776,W,loc_i,76-85,F,(t) Between VNE & GW Era,Enlisted,Navy
+777,0.69,denied,denied,V_777,C_999777,W,loc_h,86-above,M,(t) Between VNE & GW Era,Enlisted,Army
+778,0.14,granted,granted_10,V_778,C_999778,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+779,0.32,denied,denied,V_779,C_999779,W,loc_e,56-65,M,(t) Between VNE & GW Era,Enlisted,Army
+780,0.20,denied,denied,V_780,C_999780,W,loc_e,56-65,M,(m) KC only,Enlisted,Army
+781,0.45,granted,granted_0,V_781,C_999781,A,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+782,0.58,denied,denied,V_782,C_999782,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+783,0.36,granted,granted_0,V_783,C_999783,W,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+784,0.11,denied,denied,V_784,C_999784,W,loc_c,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+785,0.39,denied,denied,V_785,C_999785,W,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+786,0.69,denied,denied,V_786,C_999786,W,loc_j,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+787,0.13,granted,granted_10,V_787,C_999787,W,loc_f,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+788,0.99,granted,granted_0,V_788,C_999788,W,loc_d,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+789,0.41,granted,granted_0,V_789,C_999789,W,loc_i,26-35,M,(p) VNE only,Enlisted,Navy
+790,0.21,denied,denied,V_790,C_999790,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Officer,Marines
+791,0.81,denied,denied,V_791,C_999791,W,loc_d,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+792,0.27,granted,granted_10,V_792,C_999792,W,loc_c,56-65,M,(p) VNE only,Enlisted,Army
+793,0.16,denied,denied,V_793,C_999793,W,loc_j,66-75,F,(t) Between VNE & GW Era,Enlisted,Air Force
+794,0.54,granted,granted_0,V_794,C_999794,W,loc_j,76-85,M,(o) Between KC & VNE,Enlisted,Army
+795,0.75,granted,granted_0,V_795,C_999795,W,loc_b,76-85,M,(t) Between VNE & GW Era,Officer,Air Force
+796,0.94,denied,denied,V_796,C_999796,AA,loc_i,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+797,0.23,denied,denied,V_797,C_999797,W,loc_a,56-65,M,(t) Between VNE & GW Era,Enlisted,Army
+798,0.37,denied,denied,V_798,C_999798,W,loc_e,86-above,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Reserve Forces
+799,0.75,granted,granted_0,V_799,C_999799,W,loc_d,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+800,0.58,granted,granted_0,V_800,C_999800,HL,loc_j,86-above,ND,(o) Between KC & VNE,Enlisted,Army
+801,0.36,denied,denied,V_801,C_999801,W,loc_f,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+802,0.87,granted,granted_0,V_802,C_999802,AA,loc_i,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+803,0.16,granted,granted_10,V_803,C_999803,W,loc_g,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+804,0.62,granted,granted_0,V_804,C_999804,W,loc_l,86-above,M,(p) VNE only,Enlisted,Army
+805,0.09,denied,denied,V_805,C_999805,W,loc_d,76-85,M,(p) VNE only,Enlisted,Army
+806,0.35,denied,denied,V_806,C_999806,W,loc_f,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+807,0.46,denied,denied,V_807,C_999807,W,loc_i,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+808,0.38,denied,denied,V_808,C_999808,W,loc_a,46-55,M,(p) VNE only,Enlisted,Army
+809,0.86,denied,denied,V_809,C_999809,W,loc_j,76-85,M,(p) VNE only,Enlisted,Reserve Forces
+810,0.59,granted,granted_0,V_810,C_999810,W,loc_g,56-65,M,(t) Between VNE & GW Era,Enlisted,Navy
+811,0.57,denied,denied,V_811,C_999811,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+812,0.34,granted,granted_0,V_812,C_999812,W,loc_i,76-85,M,(p) VNE only,Enlisted,Reserve Forces
+813,0.94,denied,denied,V_813,C_999813,W,loc_c,66-75,M,(m) KC only,Enlisted,Army
+814,0.71,granted,granted_0,V_814,C_999814,W,loc_g,76-85,M,(t) Between VNE & GW Era,Enlisted,Marines
+815,0.59,granted,granted_0,V_815,C_999815,W,loc_i,56-65,M,(t) Between VNE & GW Era,Enlisted,Air Force
+816,0.59,denied,denied,V_816,C_999816,W,loc_j,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+817,0.53,granted,granted_0,V_817,C_999817,W,loc_f,66-75,F,(t) Between VNE & GW Era,Enlisted,Air Force
+818,0.32,denied,denied,V_818,C_999818,W,loc_k,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+819,0.33,granted,granted_0,V_819,C_999819,W,loc_f,86-above,M,(t) Between VNE & GW Era,Enlisted,Air Force
+820,0.16,denied,denied,V_820,C_999820,W,loc_j,56-65,M,(p) VNE only,Enlisted,Non-Defense
+821,0.03,granted,granted_10,V_821,C_999821,HL,loc_l,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+822,0.08,denied,denied,V_822,C_999822,W,loc_k,56-65,M,(p) VNE only,Enlisted,Army
+823,0.37,granted,granted_0,V_823,C_999823,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+824,0.46,denied,denied,V_824,C_999824,W,loc_i,66-75,M,(o) Between KC & VNE,Enlisted,Marines
+825,0.48,denied,denied,V_825,C_999825,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Officer,Army
+826,0.98,denied,denied,V_826,C_999826,W,loc_c,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+827,0.33,granted,granted_0,V_827,C_999827,W,loc_i,56-65,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+828,0.62,denied,denied,V_828,C_999828,W,loc_f,66-75,M,(t) Between VNE & GW Era,Enlisted,Air Force
+829,0.08,denied,denied,V_829,C_999829,W,loc_k,56-65,M,(i) WWII only,Enlisted,Army
+830,0.63,granted,granted_0,V_830,C_999830,W,loc_j,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Navy
+831,0.91,denied,denied,V_831,C_999831,W,loc_g,66-75,M,(p) VNE only,Enlisted,Army
+832,0.67,granted,granted_0,V_832,C_999832,T,loc_f,46-55,M,(t) Between VNE & GW Era,Enlisted,Army
+833,0.68,granted,granted_0,V_833,C_999833,W,loc_j,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+834,0.44,denied,denied,V_834,C_999834,W,loc_j,66-75,F,(p) VNE only,Enlisted,Air Force
+835,0.86,granted,granted_0,V_835,C_999835,W,loc_j,36- 45,M,(o) Between KC & VNE,Enlisted,Marines
+836,0.06,granted,granted_10,V_836,C_999836,W,loc_j,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+837,0.03,granted,granted_10,V_837,C_999837,W,loc_l,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+838,0.21,denied,denied,V_838,C_999838,A,loc_d,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+839,0.25,denied,denied,V_839,C_999839,O,loc_l,66-75,M,(p) VNE only,Enlisted,Navy
+840,0.44,denied,denied,V_840,C_999840,A,loc_c,66-75,M,(p) VNE only,Enlisted,Air Force
+841,0.62,granted,granted_0,V_841,C_999841,W,loc_g,56-65,M,(p) VNE only,Enlisted,Army
+842,0.09,denied,denied,V_842,C_999842,W,loc_b,66-75,M,(p) VNE only,Enlisted,Navy
+843,0.16,denied,denied,V_843,C_999843,W,loc_j,76-85,M,(p) VNE only,Enlisted,Air Force
+844,0.72,granted,granted_0,V_844,C_999844,W,loc_j,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+845,0.53,denied,denied,V_845,C_999845,W,loc_j,76-85,F,(p) VNE only,Enlisted,Air Force
+846,0.87,denied,denied,V_846,C_999846,W,loc_b,86-above,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+847,0.43,denied,denied,V_847,C_999847,W,loc_d,46-55,M,(w) GW Era - Post 9/11 only,Officer,Marines
+848,0.32,granted,granted_0,V_848,C_999848,HL,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+849,0.48,denied,denied,V_849,C_999849,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+850,0.44,granted,granted_0,V_850,C_999850,W,loc_e,56-65,M,(o) Between KC & VNE,Enlisted,Army
+851,0.30,granted,granted_0,V_851,C_999851,W,loc_k,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+852,0.16,denied,denied,V_852,C_999852,AA,loc_i,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+853,0.74,granted,granted_0,V_853,C_999853,AI,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+854,0.44,granted,granted_0,V_854,C_999854,W,loc_j,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+855,0.05,granted,granted_10,V_855,C_999855,AA,loc_g,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+856,0.74,denied,denied,V_856,C_999856,AA,loc_b,76-85,M,(p) VNE only,Enlisted,Air Force
+857,0.13,denied,denied,V_857,C_999857,W,loc_j,86-above,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+858,0.79,denied,denied,V_858,C_999858,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Army
+859,0.85,denied,denied,V_859,C_999859,AA,loc_l,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+860,0.65,denied,denied,V_860,C_999860,W,loc_g,76-85,M,(m) KC only,Enlisted,Army
+861,0.70,denied,denied,V_861,C_999861,W,loc_k,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+862,0.60,denied,denied,V_862,C_999862,W,loc_i,66-75,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+863,0.59,denied,denied,V_863,C_999863,T,loc_j,56-65,M,(p) VNE only,Officer,Army
+864,0.76,granted,granted_0,V_864,C_999864,W,loc_j,76-85,M,(p) VNE only,Enlisted,Navy
+865,0.81,denied,denied,V_865,C_999865,AA,loc_g,86-above,F,(t) Between VNE & GW Era,Officer,Navy
+866,0.19,denied,denied,V_866,C_999866,W,loc_j,76-85,F,(o) Between KC & VNE,Officer,Marines
+867,0.44,granted,granted_0,V_867,C_999867,AA,loc_l,36- 45,M,(u) GW Era - Pre 9/11 only,Enlisted,Reserve Forces
+868,0.23,denied,denied,V_868,C_999868,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+869,0.62,denied,denied,V_869,C_999869,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+870,0.55,granted,granted_0,V_870,C_999870,W,loc_e,46-55,M,(p) VNE only,Enlisted,Army
+871,0.62,denied,denied,V_871,C_999871,W,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+872,0.95,denied,denied,V_872,C_999872,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+873,0.15,granted,granted_10,V_873,C_999873,W,loc_k,76-85,M,(p) VNE only,Enlisted,Air Force
+874,0.16,denied,denied,V_874,C_999874,W,loc_f,66-75,M,(o) Between KC & VNE,Enlisted,Army
+875,0.93,granted,granted_0,V_875,C_999875,W,loc_e,66-75,F,(t) Between VNE & GW Era,Enlisted,Army
+876,0.51,granted,granted_0,V_876,C_999876,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+877,0.65,denied,denied,V_877,C_999877,W,loc_e,46-55,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+878,0.57,denied,denied,V_878,C_999878,HL,loc_j,56-65,M,(p) VNE only,Enlisted,Army
+879,0.45,denied,denied,V_879,C_999879,AA,loc_d,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Air Force
+880,0.51,denied,denied,V_880,C_999880,W,loc_j,56-65,M,(o) Between KC & VNE,Enlisted,Reserve Forces
+881,0.04,denied,denied,V_881,C_999881,W,loc_i,76-85,M,(p) VNE only,Enlisted,Reserve Forces
+882,0.26,denied,denied,V_882,C_999882,W,loc_e,36- 45,M,(t) Between VNE & GW Era,Enlisted,Army
+883,0.60,denied,denied,V_883,C_999883,W,loc_b,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+884,0.12,denied,denied,V_884,C_999884,W,loc_b,86-above,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Reserve Forces
+885,0.82,granted,granted_0,V_885,C_999885,W,loc_i,66-75,M,(u) GW Era - Pre 9/11 only,Officer,Navy
+886,0.94,denied,denied,V_886,C_999886,W,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+887,0.66,granted,granted_0,V_887,C_999887,W,loc_e,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+888,0.34,denied,denied,V_888,C_999888,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+889,0.64,denied,denied,V_889,C_999889,W,loc_k,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Air Force
+890,0.64,granted,granted_0,V_890,C_999890,W,loc_i,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+891,0.24,granted,granted_10,V_891,C_999891,W,loc_l,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Army
+892,0.21,granted,granted_10,V_892,C_999892,HL,loc_e,26-35,M,(s) VNE & GW Era - Post 9/11,Officer,Marines
+893,0.31,denied,denied,V_893,C_999893,AA,loc_c,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+894,0.25,denied,denied,V_894,C_999894,W,loc_j,86-above,ND,(p) VNE only,Enlisted,Navy
+895,0.71,granted,granted_0,V_895,C_999895,W,loc_e,26-35,F,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+896,0.67,granted,granted_0,V_896,C_999896,W,loc_h,56-65,F,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+897,0.78,denied,denied,V_897,C_999897,W,loc_a,66-75,ND,(t) Between VNE & GW Era,Enlisted,Marines
+898,0.28,granted,granted_10,V_898,C_999898,W,loc_i,86-above,M,(p) VNE only,Enlisted,Marines
+899,0.55,granted,granted_0,V_899,C_999899,W,loc_e,76-85,M,(p) VNE only,Enlisted,Army
+900,0.21,denied,denied,V_900,C_999900,W,loc_f,86-above,M,(p) VNE only,Enlisted,Army
+901,0.57,granted,granted_0,V_901,C_999901,W,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+902,0.16,granted,granted_10,V_902,C_999902,W,loc_d,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Officer,Air Force
+903,0.71,granted,granted_0,V_903,C_999903,W,loc_c,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+904,0.74,denied,denied,V_904,C_999904,W,loc_d,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+905,0.06,granted,granted_10,V_905,C_999905,AA,loc_c,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+906,0.18,granted,granted_10,V_906,C_999906,W,loc_c,56-65,F,(p) VNE only,Enlisted,Army
+907,0.62,granted,granted_0,V_907,C_999907,HL,loc_a,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Non-Defense
+908,0.72,granted,granted_0,V_908,C_999908,W,loc_j,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+909,0.79,granted,granted_0,V_909,C_999909,W,loc_j,46-55,M,(p) VNE only,Enlisted,Army
+910,0.31,granted,granted_0,V_910,C_999910,W,loc_k,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Marines
+911,0.21,granted,granted_10,V_911,C_999911,W,loc_j,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+912,0.70,denied,denied,V_912,C_999912,W,loc_c,46-55,M,(o) Between KC & VNE,Enlisted,Army
+913,0.35,granted,granted_0,V_913,C_999913,AA,loc_k,86-above,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+914,0.40,granted,granted_0,V_914,C_999914,W,loc_c,66-75,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+915,0.16,denied,denied,V_915,C_999915,W,loc_i,56-65,M,(p) VNE only,Enlisted,Reserve Forces
+916,0.85,denied,denied,V_916,C_999916,W,loc_l,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+917,0.91,denied,denied,V_917,C_999917,W,loc_c,86-above,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Air Force
+918,0.94,denied,denied,V_918,C_999918,W,loc_e,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+919,0.64,granted,granted_0,V_919,C_999919,W,loc_f,86-above,M,(t) Between VNE & GW Era,Enlisted,Army
+920,0.62,denied,denied,V_920,C_999920,W,loc_d,66-75,M,(p) VNE only,Officer,Navy
+921,0.47,denied,denied,V_921,C_999921,W,loc_k,26-35,M,(o) Between KC & VNE,Enlisted,Army
+922,0.24,granted,granted_10,V_922,C_999922,A,loc_c,36- 45,M,(t) Between VNE & GW Era,Enlisted,Navy
+923,0.94,denied,denied,V_923,C_999923,W,loc_k,66-75,M,(p) VNE only,Enlisted,Army
+924,0.76,denied,denied,V_924,C_999924,W,loc_a,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+925,0.60,granted,granted_0,V_925,C_999925,AA,loc_j,66-75,M,(p) VNE only,Enlisted,Army
+926,0.76,denied,denied,V_926,C_999926,HL,loc_k,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Navy
+927,0.67,granted,granted_0,V_927,C_999927,W,loc_l,76-85,M,(p) VNE only,Enlisted,Navy
+928,0.39,granted,granted_0,V_928,C_999928,W,loc_j,76-85,M,(p) VNE only,Enlisted,Army
+929,0.11,denied,denied,V_929,C_999929,W,loc_a,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+930,0.99,denied,denied,V_930,C_999930,W,loc_a,46-55,F,(o) Between KC & VNE,Enlisted,Navy
+931,0.29,granted,granted_10,V_931,C_999931,W,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Reserve Forces
+932,0.46,granted,granted_0,V_932,C_999932,W,loc_i,46-55,F,(w) GW Era - Post 9/11 only,Enlisted,Air Force
+933,0.62,denied,denied,V_933,C_999933,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+934,0.41,denied,denied,V_934,C_999934,W,loc_d,46-55,M,(p) VNE only,Officer,Army
+935,0.66,denied,denied,V_935,C_999935,AA,loc_k,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+936,0.17,granted,granted_10,V_936,C_999936,W,loc_j,56-65,M,(p) VNE only,Enlisted,Marines
+937,0.19,granted,granted_10,V_937,C_999937,W,loc_f,76-85,M,(t) Between VNE & GW Era,Enlisted,Navy
+938,0.26,granted,granted_10,V_938,C_999938,W,loc_j,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+939,0.88,granted,granted_0,V_939,C_999939,W,loc_c,76-85,M,(u) GW Era - Pre 9/11 only,Officer,Army
+940,0.72,denied,denied,V_940,C_999940,W,loc_i,66-75,M,(t) Between VNE & GW Era,Enlisted,Army
+941,0.59,denied,denied,V_941,C_999941,W,loc_i,36- 45,M,(p) VNE only,Enlisted,Army
+942,0.19,granted,granted_10,V_942,C_999942,W,loc_i,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+943,0.67,granted,granted_0,V_943,C_999943,HL,loc_e,66-75,M,(p) VNE only,Enlisted,Army
+944,0.16,denied,denied,V_944,C_999944,W,loc_i,66-75,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Navy
+945,0.16,denied,denied,V_945,C_999945,W,loc_d,46-55,M,(u) GW Era - Pre 9/11 only,Officer,Army
+946,0.69,denied,denied,V_946,C_999946,AI,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+947,0.70,granted,granted_0,V_947,C_999947,W,loc_j,56-65,M,(p) VNE only,Enlisted,Navy
+948,0.77,denied,denied,V_948,C_999948,W,loc_a,66-75,M,(w) GW Era - Post 9/11 only,Officer,Army
+949,0.90,denied,denied,V_949,C_999949,W,loc_e,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+950,0.78,denied,denied,V_950,C_999950,W,loc_i,76-85,M,(p) VNE only,Officer,Air Force
+951,0.56,denied,denied,V_951,C_999951,W,loc_i,46-55,F,(p) VNE only,Enlisted,Navy
+952,0.99,granted,granted_0,V_952,C_999952,W,loc_i,76-85,M,(p) VNE only,Enlisted,Air Force
+953,0.37,granted,granted_0,V_953,C_999953,W,loc_f,76-85,M,(i) WWII only,Enlisted,Air Force
+954,0.29,denied,denied,V_954,C_999954,W,loc_d,56-65,M,"(r) VNE, GW Era - Pre 9/11, GW Era - Post 9/11",Enlisted,Navy
+955,0.36,denied,denied,V_955,C_999955,W,loc_j,66-75,M,(t) Between VNE & GW Era,Enlisted,Marines
+956,0.25,denied,denied,V_956,C_999956,W,loc_f,46-55,M,(t) Between VNE & GW Era,Enlisted,Marines
+957,0.98,granted,granted_0,V_957,C_999957,HL,loc_h,66-75,M,(p) VNE only,Enlisted,Navy
+958,0.67,granted,granted_0,V_958,C_999958,W,loc_j,56-65,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+959,0.04,granted,granted_10,V_959,C_999959,W,loc_e,66-75,M,(p) VNE only,Enlisted,Army
+960,0.09,granted,granted_10,V_960,C_999960,W,loc_a,76-85,F,(p) VNE only,Enlisted,Navy
+961,0.63,denied,denied,V_961,C_999961,W,loc_k,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+962,0.36,granted,granted_0,V_962,C_999962,W,loc_c,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+963,0.73,granted,granted_0,V_963,C_999963,W,loc_f,66-75,M,(m) KC only,Enlisted,Navy
+964,0.54,granted,granted_0,V_964,C_999964,W,loc_i,76-85,ND,(p) VNE only,Enlisted,Reserve Forces
+965,0.98,denied,denied,V_965,C_999965,W,loc_i,76-85,M,(p) VNE only,Enlisted,Navy
+966,0.43,denied,denied,V_966,C_999966,W,loc_a,66-75,M,(p) VNE only,Enlisted,Air Force
+967,0.81,denied,denied,V_967,C_999967,HL,loc_l,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+968,0.43,granted,granted_0,V_968,C_999968,W,loc_l,76-85,M,(p) VNE only,Officer,Non-Defense
+969,0.30,denied,denied,V_969,C_999969,W,loc_a,66-75,F,(w) GW Era - Post 9/11 only,Enlisted,Army
+970,0.70,denied,denied,V_970,C_999970,W,loc_j,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Army
+971,0.49,denied,denied,V_971,C_999971,W,loc_i,76-85,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+972,0.27,denied,denied,V_972,C_999972,W,loc_k,56-65,F,(p) VNE only,Enlisted,Air Force
+973,0.99,denied,denied,V_973,C_999973,AA,loc_i,86-above,M,(m) KC only,Enlisted,Navy
+974,0.61,granted,granted_0,V_974,C_999974,W,loc_a,76-85,F,(u) GW Era - Pre 9/11 only,Officer,Navy
+975,0.96,granted,granted_0,V_975,C_999975,W,loc_j,46-55,F,(p) VNE only,Enlisted,Army
+976,0.76,granted,granted_0,V_976,C_999976,W,loc_j,26-35,M,(p) VNE only,Enlisted,Army
+977,0.71,granted,granted_0,V_977,C_999977,HL,loc_i,46-55,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+978,0.61,granted,granted_0,V_978,C_999978,AA,loc_c,56-65,M,(w) GW Era - Post 9/11 only,Officer,Army
+979,0.69,granted,granted_0,V_979,C_999979,W,loc_i,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+980,0.54,granted,granted_0,V_980,C_999980,W,loc_a,76-85,F,(u) GW Era - Pre 9/11 only,Enlisted,Army
+981,0.71,granted,granted_0,V_981,C_999981,W,loc_k,66-75,M,(p) VNE only,Enlisted,Navy
+982,0.68,granted,granted_0,V_982,C_999982,W,loc_f,76-85,M,(p) VNE only,Enlisted,Army
+983,0.89,denied,denied,V_983,C_999983,W,loc_f,56-65,M,(p) VNE only,Enlisted,Army
+984,0.16,granted,granted_10,V_984,C_999984,W,loc_c,76-85,M,(m) KC only,Enlisted,Army
+985,0.82,granted,granted_0,V_985,C_999985,W,loc_j,66-75,M,(w) GW Era - Post 9/11 only,Enlisted,Navy
+986,0.98,denied,denied,V_986,C_999986,T,loc_f,46-55,M,(p) VNE only,Enlisted,Marines
+987,0.93,denied,denied,V_987,C_999987,W,loc_j,66-75,M,(p) VNE only,Officer,Army
+988,0.97,granted,granted_0,V_988,C_999988,W,loc_i,76-85,M,(v) GW Era - Pre 9/11 & GW Era - Post 9/11,Enlisted,Army
+989,0.94,granted,granted_0,V_989,C_999989,AA,loc_e,76-85,M,(p) VNE only,Enlisted,Navy
+990,0.16,denied,denied,V_990,C_999990,W,loc_f,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+991,0.40,granted,granted_0,V_991,C_999991,AA,loc_d,46-55,M,(t) Between VNE & GW Era,Enlisted,Army
+992,0.18,denied,denied,V_992,C_999992,W,loc_f,76-85,M,(u) GW Era - Pre 9/11 only,Enlisted,Marines
+993,0.47,denied,denied,V_993,C_999993,W,loc_e,46-55,M,(i) WWII only,Enlisted,Navy
+994,0.54,granted,granted_0,V_994,C_999994,O,loc_g,56-65,M,(p) VNE only,Enlisted,Marines
+995,0.42,denied,denied,V_995,C_999995,HL,loc_f,56-65,M,(u) GW Era - Pre 9/11 only,Enlisted,Air Force
+996,0.07,denied,denied,V_996,C_999996,W,loc_l,26-35,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+997,0.03,denied,denied,V_997,C_999997,AI,loc_j,86-above,M,(w) GW Era - Post 9/11 only,Enlisted,Army
+998,0.76,denied,denied,V_998,C_999998,W,loc_e,76-85,M,(q) VNE & GW Era - Pre 9/11,Enlisted,Reserve Forces
+999,0.46,granted,granted_0,V_999,C_999999,W,loc_a,56-65,M,(p) VNE only,Enlisted,Army
+1000,1.00,granted,granted_0,V_1000,C_9991000,W,loc_j,76-85,M,(p) VNE only,Enlisted,Navy
